@@ -1,0 +1,118 @@
+{% extends "admin/base.html" %}
+
+{% load static %}
+
+{% block title %}{{ title }} | {{ site_title|default:_('Django site admin') }}{% endblock %}
+
+{% block extrastyle %}
+    <style>
+
+        @font-face {
+            font-family: 'Product Sans';
+            src: url("{% static 'fonts/ProductSans-Regular.ttf' %}");
+        }
+
+        * {
+            {#font-family: 'Product Sans';#}
+        }
+
+        #header,
+        .button, input[type=submit], input[type=button], .submit-row input, a.button {
+            background: #2d2d2d
+            /*background: rgba(98,7,12,1)*/
+            /* linear-gradient(320deg, rgba(98,7,12,1) 0%, rgba(126,3,8,1) 50%, rgba(158,68,68,1) 100%); */
+        }
+
+        .module h2, .module caption, .inline-group h2,
+        .button:active, input[type=submit]:active, input[type=button]:active, .button:focus, input[type=submit]:focus,
+        input[type=button]:focus, .button:hover, input[type=submit]:hover, input[type=button]:hover,
+        div.breadcrumbs,
+        .object-tools a:focus, .object-tools a:hover {
+            /*background: rgba(126,3,8,1)*/
+            background: #212121
+        }
+
+        .selector-chosen h2 {
+            background: rgba(126, 3, 8, 1) !important
+        }
+
+        .button.default, input[type=submit].default, .submit-row input.default {
+            background: #279b29;
+        }
+
+        .button.default:active, input[type=submit].default:active, .button.default:focus, input[type=submit].default:focus, .button.default:hover, input[type=submit].default:hover {
+            background: #10af13;
+        }
+
+        a:link, a:visited {
+            color: #707070
+        }
+
+        #user-tools a:focus, #user-tools a:hover {
+            color: #f5dd5d;
+            border-bottom-color: #f5dd5d;
+        }
+
+        #user-tools,
+        .breadcrumbs,
+        div.breadcrumbs a:focus, div.breadcrumbs a:hover {
+            color: #f5dd5d !important;
+        }
+
+        #user-tools {
+            margin-top: 32px !important;
+        }
+
+        .submit-row a.deletelink {
+            background: rgba(126, 3, 8, 1)
+        }
+
+        #changelist #toolbar form #searchbar:focus {
+            border: none !important;
+        }
+
+        #changelist #toolbar form input[type="submit"],
+        #changelist .actions .button {
+            box-shadow: none !important;
+        }
+
+        .button, input[type=submit], input[type=button], .submit-row input, a.button {
+            border-radius: 0;
+            outline: 0;
+            text-transform: uppercase;
+        }
+
+        input[type=text], input[type=password], input[type=email], input[type=url], input[type=number], input[type=tel], textarea, select, .vTextField {
+            border-radius: 0;
+            outline: 0;
+        }
+
+        .errornote {
+            border-radius: 0;
+        }
+
+    </style>
+{% endblock %}
+
+{% block branding %}
+    <div id="site-name">
+        <a href="{% url 'admin:index' %}">
+
+            <div style="display: flex; flex-wrap: no-wrap; align-items: center; align-content: center;">
+                <img src="{% static 'img/USeP.png' %}" style="height: 60px; margin-right: 14px;"/>
+                <div>
+                    <h1 style="margin-top: -3px; font-size: 24px">One Data. One USeP.</h1>
+                    <h3 style="color: white; margin: 0; font-weight: normal;">University Documents Archiving System</h3>
+                </div>
+            </div>
+
+        </a>
+    </div>
+{% endblock %}
+
+{% block userlinks %}
+    {% if user.has_usable_password %}
+        <a href="{% url 'admin:password_change' %}">Change password</a> /
+    {% endif %}
+    <a href="{% url 'admin:logout' %}">Log out</a>
+{% endblock %}

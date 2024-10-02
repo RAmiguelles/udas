@@ -1,0 +1,362 @@
+[
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 1,
+      "title": "LINKS",
+      "directory_id": 645
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "USeP-CIC Laboratories and Facilities Virtual Tour",
+      "link": "https://drive.google.com/file/d/1TlUy59c7z5MK61jezbVBY6KL6mzr22th/view?usp=sharing",
+      "college_description_id": 1
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "University Clinic Virtual Tour",
+      "link": "https://drive.google.com/file/d/13Kz-GDhTwNd-Dc4KDCqpJOG6c8-yGzQj/view?usp=sharing",
+      "college_description_id": 1
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 2,
+      "title": "LINKS",
+      "directory_id": 236785
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "USeP-CIC Laboratories and Facilities Virtual Tour",
+      "link": "https://drive.google.com/file/d/1TlUy59c7z5MK61jezbVBY6KL6mzr22th/view?usp=sharing",
+      "college_description_id": 2
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "University Clinic Virtual Tour",
+      "link": "https://drive.google.com/file/d/13Kz-GDhTwNd-Dc4KDCqpJOG6c8-yGzQj/view?usp=sharing",
+      "college_description_id": 2
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "College of Information and Computing",
+      "link": "https://drive.google.com/drive/u/1/folders/1imf0N48qpePSM8cEivFpVbeovTzQMivT?fbclid=IwAR1yyYEUJSF_lIFzQlb2uNfBEldMUaJq8-HCHuh1LQux7AHp5zD1KbwEpOo",
+      "college_description_id": 2
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 3,
+      "title": "LINKS",
+      "directory_id": 270805
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Google Drive for other pertinent documents.",
+      "link": "https://drive.google.com/drive/folders/19Ggs-c2oje-lqc15_12MV5DLdX_V0_yf?usp=sharing",
+      "college_description_id": 3
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 4,
+      "title": "",
+      "directory_id": 16110
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://bit.ly/3C0Uogp",
+      "college_description_id": 4
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 5,
+      "title": "",
+      "directory_id": 6276
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://bit.ly/3hku33E",
+      "college_description_id": 5
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 6,
+      "title": "",
+      "directory_id": 6279
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://us02web.zoom.us/j/85377911906?pwd=bko1S1hVRTF6K3RCS3dJYmNDZ3BnUT09",
+      "college_description_id": 6
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 7,
+      "title": "",
+      "directory_id": 6339
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "http://bit.ly/BSBIO-ACCRE",
+      "college_description_id": 7
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 8,
+      "title": "",
+      "directory_id": 13364
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "http://bit.ly/MALIT-ACCRE",
+      "college_description_id": 8
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 9,
+      "title": "",
+      "directory_id": 169217
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "http://bit.ly/CAS-LIBRARY",
+      "college_description_id": 9
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 10,
+      "title": "",
+      "directory_id": 11997
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "http://bit.ly/MEAL-ACCRE",
+      "college_description_id": 10
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 11,
+      "title": "",
+      "directory_id": 6335
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "http://bit.ly/MSAM-ACCRE",
+      "college_description_id": 11
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 12,
+      "title": "",
+      "directory_id": 14731
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "http://bit.ly/MSBIO-ACCRE",
+      "college_description_id": 12
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 13,
+      "title": "",
+      "directory_id": 6274
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://bit.ly/3HrGtkI",
+      "college_description_id": 13
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 14,
+      "title": "",
+      "directory_id": 6287
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://us02web.zoom.us/j/85331155780?pwd=NEYvWkhyZFdYMFo0K1h0VnNscmRCdz09",
+      "college_description_id": 14
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 15,
+      "title": "",
+      "directory_id": 6303
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://us02web.zoom.us/j/84496777977?pwd=dWRCc2o5Z2xwbzFvVlIvSjFvTnFkdz09",
+      "college_description_id": 15
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 16,
+      "title": "",
+      "directory_id": 164246
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "https://us02web.zoom.us/j/89849616738?pwd=N2NrUjlYNHRYVzhCQlVzMlBTSXVTQT09",
+      "college_description_id": 16
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 17,
+      "title": "",
+      "directory_id": 154153
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nPQA Link (Internal Accreditors)",
+      "link": "https://us02web.zoom.us/j/89849616738?pwd=N2NrUjlYNHRYVzhCQlVzMlBTSXVTQT09",
+      "college_description_id": 17
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 18,
+      "title": "",
+      "directory_id": 634
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://us02web.zoom.us/j/86941426687?pwd=S3ZZUWRndWpwKzA5cDVFS0lCS0lBdz09",
+      "college_description_id": 18
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 19,
+      "title": "",
+      "directory_id": 7
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://bit.ly/3HrGjtC",
+      "college_description_id": 19
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 20,
+      "title": "",
+      "directory_id": 16793
+    }
+  },
+  {
+    "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://us02web.zoom.us/j/82853515647?pwd=d0krckovd3ZiY3lTV0JPUlY2amJIQT09",
+      "college_description_id": 20
+    }
+  },
+  {
+    "model": "src.CollegeDescription",
+    "fields": {
+      "id": 21,
+      "title": "",
+      "directory_id": 198237
+    }
+  },
+  {
+  "model": "src.CollegeDescriptionDetail",
+    "fields": {
+      "description": "Use this link to conduct virtual meeting with your counterpart. Please contact QAD thru Hency C. Encabo, Director at 09177079609 or Marriez T. Aquino, Deputy Director (PACAU) at 09257581219 for proper coordination.\n\nProgram Accreditation Link (AACCUP Accreditors)",
+      "link": "https://us02web.zoom.us/j/87296092515?pwd=Q2JRV0N0M25zbjdadW1JNXdOZVMvQT09",
+      "college_description_id": 21
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "model": "app_admin.setting",
+    "pk": 1,
+    "fields": {
+      "name": "Initial",
+      "session_time_limit": 15,
+      "upload_filesize_limit": 15,
+      "staging_pass_key": "",
+      "is_active": true,
+      "is_default": true,
+      "created_at": "2020-03-02T01:27:08.761Z"
+    }
+  }
+]

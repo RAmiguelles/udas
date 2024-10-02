@@ -1,0 +1,3950 @@
+[
+  {
+    "model": "authentication.log",
+    "pk": 5,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.146.4.204",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-20T04:09:56.016Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.146.4.204",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-20T04:19:59.649Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 7,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.146.4.204",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-20T04:20:22.521Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 9,
+    "fields": {
+      "user": 8,
+      "action": "LOGIN",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-20T04:48:45.480Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 10,
+    "fields": {
+      "user": 10,
+      "action": "LOGIN",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-20T04:53:34.691Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 11,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.146.4.204",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-20T05:27:40.721Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 12,
+    "fields": {
+      "user": 70,
+      "action": "LOGIN",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-21T08:05:40.043Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 13,
+    "fields": {
+      "user": 70,
+      "action": "LOGOUT",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T01:53:53.158Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 14,
+    "fields": {
+      "user": 70,
+      "action": "LOGIN",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T01:54:02.731Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 15,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.146.4.204",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-23T02:48:29.818Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 16,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.146.4.204",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-23T03:27:02.303Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 17,
+    "fields": {
+      "user": 28,
+      "action": "LOGIN",
+      "ip_address": "112.198.74.88",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-04-23T06:04:23.107Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 18,
+    "fields": {
+      "user": 79,
+      "action": "LOGIN",
+      "ip_address": "49.149.71.13",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-24T07:48:14.442Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 19,
+    "fields": {
+      "user": 79,
+      "action": "LOGOUT",
+      "ip_address": "49.149.71.13",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-24T08:03:17.285Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 21,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.91",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-04-27T12:37:44.922Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 22,
+    "fields": {
+      "user": 79,
+      "action": "LOGIN",
+      "ip_address": "49.149.71.13",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-28T09:36:35.233Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 23,
+    "fields": {
+      "user": 79,
+      "action": "LOGOUT",
+      "ip_address": "49.149.71.13",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-28T09:51:50.770Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 24,
+    "fields": {
+      "user": 79,
+      "action": "LOGIN",
+      "ip_address": "49.149.71.13",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-28T09:56:33.478Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 25,
+    "fields": {
+      "user": 79,
+      "action": "LOGOUT",
+      "ip_address": "49.149.71.13",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-04-28T10:18:20.369Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 26,
+    "fields": {
+      "user": 30,
+      "action": "LOGIN",
+      "ip_address": "130.105.133.117",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-29T05:06:07.971Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 28,
+    "fields": {
+      "user": 9,
+      "action": "LOGIN",
+      "ip_address": "49.146.36.234",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-05-06T06:26:10.156Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 29,
+    "fields": {
+      "user": 9,
+      "action": "LOGOUT",
+      "ip_address": "49.146.36.234",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-05-06T06:30:43.049Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 31,
+    "fields": {
+      "user": 29,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-08T05:46:34.602Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 34,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-11T08:00:52.387Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 36,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-11T08:01:43.843Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 37,
+    "fields": {
+      "user": 3,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-11T08:01:48.710Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 44,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-13T09:15:56.988Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 45,
+    "fields": {
+      "user": 3,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-13T09:17:21.826Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 49,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-25T07:21:36.541Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 50,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-28T15:44:35.364Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 51,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "49.149.66.89",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-28T16:42:08.796Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 52,
+    "fields": {
+      "user": 3,
+      "action": "LOGOUT",
+      "ip_address": "49.149.66.89",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-28T16:42:36.659Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 53,
+    "fields": {
+      "user": 37,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T06:51:21.500Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 54,
+    "fields": {
+      "user": 37,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T07:07:10.655Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 55,
+    "fields": {
+      "user": 38,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T07:07:41.175Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 56,
+    "fields": {
+      "user": 38,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T07:11:26.657Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 57,
+    "fields": {
+      "user": 38,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T07:12:47.433Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 58,
+    "fields": {
+      "user": 37,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T07:26:41.088Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 59,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "49.149.69.100",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-07-03T05:18:09.919Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 60,
+    "fields": {
+      "user": 3,
+      "action": "LOGOUT",
+      "ip_address": "49.149.69.100",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-07-03T05:18:32.560Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 61,
+    "fields": {
+      "user": 37,
+      "action": "LOGIN",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T00:44:43.238Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 62,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-10T06:30:21.959Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 63,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-21T04:16:04.589Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 64,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.146.15.134",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-21T05:39:27.254Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 65,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "175.176.95.21",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-21T05:57:04.885Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 66,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-21T16:52:57.808Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 67,
+    "fields": {
+      "user": 8,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-21T16:57:13.386Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 68,
+    "fields": {
+      "user": 8,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T02:29:43.103Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 69,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T02:41:03.289Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 70,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T02:41:14.617Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 71,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-23T00:35:00.057Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 72,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "175.176.95.55",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T02:09:43.460Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 73,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:32:35.192Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 74,
+    "fields": {
+      "user": 8,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:34:18.362Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 75,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T04:55:54.301Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 76,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "175.176.95.55",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T05:01:44.326Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 77,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "175.176.95.55",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T05:10:56.950Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 78,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:18:24.002Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 79,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.111.47",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T05:29:54.894Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 80,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.111.47",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T05:38:46.627Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 81,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:46:34.436Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 82,
+    "fields": {
+      "user": 15,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:47:50.227Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 83,
+    "fields": {
+      "user": 152,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T06:04:40.223Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 84,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.153",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-07-27T06:04:52.462Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 85,
+    "fields": {
+      "user": 74,
+      "action": "LOGOUT",
+      "ip_address": "49.149.111.47",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T06:05:49.100Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 86,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.111.47",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T06:05:54.161Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 87,
+    "fields": {
+      "user": 224,
+      "action": "LOGOUT",
+      "ip_address": "49.149.76.153",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-07-27T06:15:00.612Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 88,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "175.176.95.55",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T06:17:02.715Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 89,
+    "fields": {
+      "user": 74,
+      "action": "LOGOUT",
+      "ip_address": "49.149.111.47",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T06:28:49.050Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 90,
+    "fields": {
+      "user": 15,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-28T04:19:35.928Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 91,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-28T04:19:56.471Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 92,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-28T04:25:02.863Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 93,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-28T04:25:20.192Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 94,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.226.215",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-28T10:32:52.135Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 95,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-08-03T02:39:09.214Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 96,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.107.47",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-08-04T08:17:48.414Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 97,
+    "fields": {
+      "user": 70,
+      "action": "LOGIN",
+      "ip_address": "120.72.26.86",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-08-15T15:16:48.250Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 98,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.170.69",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-08-26T01:40:49.036Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 99,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-08-27T02:15:40.961Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 100,
+    "fields": {
+      "user": 1,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-08-27T02:15:53.498Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 101,
+    "fields": {
+      "user": 37,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-02T01:31:04.883Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 102,
+    "fields": {
+      "user": 1,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.22",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-02T03:30:50.283Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 103,
+    "fields": {
+      "user": 1,
+      "action": "LOGOUT",
+      "ip_address": "110.54.225.22",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-02T03:31:56.043Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 104,
+    "fields": {
+      "user": 1,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.22",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-02T03:32:04.082Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 105,
+    "fields": {
+      "user": 1,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.22",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-02T03:33:52.202Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 106,
+    "fields": {
+      "user": 1,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.22",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-02T03:34:22.268Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 107,
+    "fields": {
+      "user": 1,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.22",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-02T03:48:30.836Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 108,
+    "fields": {
+      "user": 1,
+      "action": "LOGIN",
+      "ip_address": "110.54.225.22",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-02T03:50:07.781Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 109,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-03T05:35:46.445Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 110,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-07T07:49:47.738Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 111,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-07T08:13:23.988Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 112,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-07T08:13:42.667Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 113,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-07T09:10:57.850Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 114,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-07T13:29:15.879Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 115,
+    "fields": {
+      "user": 13,
+      "action": "LOGIN",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:50:27.603Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 116,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:50:55.440Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 117,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:51:05.176Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 118,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:53:43.257Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 119,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:53:55.607Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 120,
+    "fields": {
+      "user": 13,
+      "action": "LOGOUT",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:55:20.276Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 121,
+    "fields": {
+      "user": 8,
+      "action": "LOGIN",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:55:29.698Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 122,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T14:08:47.566Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 123,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T14:08:59.108Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 124,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T14:48:58.065Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 125,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T14:49:08.289Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 126,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T14:56:49.710Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 127,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T14:56:59.687Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 128,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-08T09:35:51.043Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 129,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-08T09:45:30.046Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 130,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-08T09:50:24.879Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 131,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-08T09:55:01.586Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 132,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-08T10:09:34.805Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 133,
+    "fields": {
+      "user": 593,
+      "action": "LOGIN",
+      "ip_address": "112.198.74.209",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-09T04:55:05.883Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 134,
+    "fields": {
+      "user": 594,
+      "action": "LOGIN",
+      "ip_address": "112.198.74.209",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-09T05:01:51.871Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 135,
+    "fields": {
+      "user": 8,
+      "action": "LOGIN",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:17:21.459Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 136,
+    "fields": {
+      "user": 593,
+      "action": "LOGIN",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:22:28.332Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 137,
+    "fields": {
+      "user": 593,
+      "action": "LOGIN",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:27:47.197Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 138,
+    "fields": {
+      "user": 594,
+      "action": "LOGIN",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:30:28.934Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 139,
+    "fields": {
+      "user": 595,
+      "action": "LOGIN",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T18:42:22.825Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 140,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T00:03:56.900Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 141,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T01:30:35.187Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 142,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T02:02:20.337Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 143,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T02:37:51.019Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 144,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:31:59.100Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 145,
+    "fields": {
+      "user": 71,
+      "action": "LOGIN",
+      "ip_address": "58.69.162.90",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T03:32:22.511Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 146,
+    "fields": {
+      "user": 34,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:32:37.165Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 147,
+    "fields": {
+      "user": 427,
+      "action": "LOGIN",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T03:32:40.912Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 148,
+    "fields": {
+      "user": 233,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:32:59.391Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 149,
+    "fields": {
+      "user": 233,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:34:16.073Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 150,
+    "fields": {
+      "user": 36,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:36:31.183Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 151,
+    "fields": {
+      "user": 4,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T03:40:41.617Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 152,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T03:41:34.530Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 153,
+    "fields": {
+      "user": 8,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:53:54.774Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 154,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.69.238",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-10T03:54:06.784Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 155,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.69.238",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-10T03:54:11.877Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 156,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.69.238",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-10T03:55:19.197Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 157,
+    "fields": {
+      "user": 595,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:57:55.987Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 158,
+    "fields": {
+      "user": 224,
+      "action": "LOGOUT",
+      "ip_address": "49.149.69.238",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-10T04:06:04.728Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 159,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T04:14:30.935Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 160,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:00:07.337Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 161,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:14:58.954Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 162,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:25:15.530Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 163,
+    "fields": {
+      "user": 206,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:28:12.089Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 164,
+    "fields": {
+      "user": 61,
+      "action": "LOGIN",
+      "ip_address": "49.145.200.178",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:30:25.430Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 165,
+    "fields": {
+      "user": 78,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:32:17.628Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 166,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:32:51.620Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 167,
+    "fields": {
+      "user": 593,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:33:59.570Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 168,
+    "fields": {
+      "user": 409,
+      "action": "LOGIN",
+      "ip_address": "110.54.170.21",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:35:10.920Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 169,
+    "fields": {
+      "user": 594,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:35:48.538Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 170,
+    "fields": {
+      "user": 233,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:51:41.218Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 171,
+    "fields": {
+      "user": 328,
+      "action": "LOGIN",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T05:52:41.848Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 172,
+    "fields": {
+      "user": 328,
+      "action": "LOGOUT",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T05:54:15.284Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 173,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:09:26.754Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 174,
+    "fields": {
+      "user": 449,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:09:29.135Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 175,
+    "fields": {
+      "user": 328,
+      "action": "LOGIN",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:09:30.325Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 176,
+    "fields": {
+      "user": 78,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:09:55.948Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 177,
+    "fields": {
+      "user": 78,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:10:02.810Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 178,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.127.191",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:10:04.758Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 179,
+    "fields": {
+      "user": 205,
+      "action": "LOGIN",
+      "ip_address": "49.145.195.171",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:10:53.928Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 180,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "49.149.75.94",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:11:17.511Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 181,
+    "fields": {
+      "user": 62,
+      "action": "LOGIN",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:11:24.558Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 182,
+    "fields": {
+      "user": 233,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:12:10.298Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 183,
+    "fields": {
+      "user": 193,
+      "action": "LOGIN",
+      "ip_address": "49.149.79.83",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:12:48.817Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 184,
+    "fields": {
+      "user": 328,
+      "action": "LOGOUT",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:14:37.829Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 185,
+    "fields": {
+      "user": 206,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:14:46.037Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 186,
+    "fields": {
+      "user": 62,
+      "action": "LOGOUT",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:14:51.931Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 187,
+    "fields": {
+      "user": 61,
+      "action": "LOGOUT",
+      "ip_address": "49.145.200.178",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:14:55.129Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 188,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:15:01.833Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 189,
+    "fields": {
+      "user": 233,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:15:06.059Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 190,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:15:19.944Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 191,
+    "fields": {
+      "user": 3,
+      "action": "LOGOUT",
+      "ip_address": "49.149.75.94",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:15:43.771Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 192,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "49.149.75.94",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:16:04.480Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 193,
+    "fields": {
+      "user": 3,
+      "action": "LOGOUT",
+      "ip_address": "49.149.75.94",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:16:57.834Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 194,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:17:02.933Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 195,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:17:15.952Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 196,
+    "fields": {
+      "user": 306,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:17:22.379Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 197,
+    "fields": {
+      "user": 4,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:17:34.520Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 198,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.102.184",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:18:29.205Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 199,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:18:50.168Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 200,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:19:38.562Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 201,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:19:54.649Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 202,
+    "fields": {
+      "user": 409,
+      "action": "LOGIN",
+      "ip_address": "110.54.170.21",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:20:10.724Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 203,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:20:34.550Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 204,
+    "fields": {
+      "user": 176,
+      "action": "LOGIN",
+      "ip_address": "120.72.28.106",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:21:41.896Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 205,
+    "fields": {
+      "user": 205,
+      "action": "LOGIN",
+      "ip_address": "49.145.195.171",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:22:03.397Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 206,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:22:31.453Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 207,
+    "fields": {
+      "user": 6,
+      "action": "LOGOUT",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:22:36.379Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 208,
+    "fields": {
+      "user": 34,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:23:49.138Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 209,
+    "fields": {
+      "user": 45,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:23:50.165Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 210,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.102.184",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:23:50.411Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 211,
+    "fields": {
+      "user": 595,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:23:52.211Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 212,
+    "fields": {
+      "user": 205,
+      "action": "LOGIN",
+      "ip_address": "49.145.195.171",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:24:20.719Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 213,
+    "fields": {
+      "user": 34,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:24:27.376Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 214,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.102.184",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:25:16.232Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 215,
+    "fields": {
+      "user": 5,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:25:22.649Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 216,
+    "fields": {
+      "user": 6,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:25:58.500Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 217,
+    "fields": {
+      "user": 176,
+      "action": "LOGIN",
+      "ip_address": "120.72.28.106",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:26:23.573Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 218,
+    "fields": {
+      "user": 78,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:37:22.316Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 219,
+    "fields": {
+      "user": 78,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:42:34.753Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 220,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.102.184",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:43:18.827Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 221,
+    "fields": {
+      "user": 205,
+      "action": "LOGIN",
+      "ip_address": "49.145.195.171",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:44:38.539Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 222,
+    "fields": {
+      "user": 176,
+      "action": "LOGIN",
+      "ip_address": "120.72.28.106",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:44:40.541Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 223,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.69.238",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-10T06:52:18.421Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 224,
+    "fields": {
+      "user": 329,
+      "action": "LOGIN",
+      "ip_address": "49.145.241.173",
+      "country": "Philippines",
+      "city": "Anahao",
+      "latitude": "12.2039",
+      "longitude": "121.9673",
+      "timestamp": "2020-09-10T06:54:21.233Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 225,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.69.238",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-10T06:56:47.670Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 226,
+    "fields": {
+      "user": 449,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:56:52.637Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 227,
+    "fields": {
+      "user": 224,
+      "action": "LOGOUT",
+      "ip_address": "49.149.69.238",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-10T07:19:51.321Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 228,
+    "fields": {
+      "user": 449,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T08:06:23.953Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 229,
+    "fields": {
+      "user": 449,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T01:24:34.150Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 230,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T02:15:38.554Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 231,
+    "fields": {
+      "user": 449,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T02:41:18.174Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 232,
+    "fields": {
+      "user": 449,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T02:48:35.672Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 233,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T03:18:08.813Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 234,
+    "fields": {
+      "user": 449,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T03:36:15.855Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 235,
+    "fields": {
+      "user": 5,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T06:12:02.996Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 236,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T07:09:03.164Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 237,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T07:28:49.469Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 238,
+    "fields": {
+      "user": 62,
+      "action": "LOGIN",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-11T07:28:57.469Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 239,
+    "fields": {
+      "user": 3,
+      "action": "LOGIN",
+      "ip_address": "49.149.67.109",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T12:27:19.038Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 240,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.122.110",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T12:34:09.433Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 241,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.122.80",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-12T07:41:53.641Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 242,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.122.80",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-12T08:55:54.576Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 243,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.122.80",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-12T10:08:03.369Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 244,
+    "fields": {
+      "user": 449,
+      "action": "LOGIN",
+      "ip_address": "110.54.249.12",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-13T00:30:54.728Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 245,
+    "fields": {
+      "user": 449,
+      "action": "LOGOUT",
+      "ip_address": "110.54.249.12",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-13T00:31:44.109Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 246,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T03:43:25.762Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 247,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T04:55:05.497Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 248,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T06:19:47.265Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 249,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T06:41:15.303Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 250,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T08:51:20.798Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 251,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T12:01:57.421Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 252,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T14:02:31.568Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 253,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.126.21",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-13T15:10:41.039Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 254,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.123.208",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T00:56:53.837Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 255,
+    "fields": {
+      "user": 206,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T01:44:17.800Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 256,
+    "fields": {
+      "user": 78,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T01:49:29.184Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 257,
+    "fields": {
+      "user": 87,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T03:10:20.639Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 258,
+    "fields": {
+      "user": 74,
+      "action": "LOGIN",
+      "ip_address": "49.149.98.184",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T07:07:09.981Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 259,
+    "fields": {
+      "user": 193,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T07:24:06.987Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 260,
+    "fields": {
+      "user": 206,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T07:32:41.320Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 261,
+    "fields": {
+      "user": 94,
+      "action": "LOGIN",
+      "ip_address": "49.149.78.84",
+      "country": "Philippines",
+      "city": "Manajao",
+      "latitude": "12.5036",
+      "longitude": "124.9545",
+      "timestamp": "2020-09-14T11:32:30.905Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 262,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.123.208",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-14T13:45:41.848Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 263,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-15T01:00:30.320Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 264,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-15T01:13:20.773Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 265,
+    "fields": {
+      "user": 206,
+      "action": "LOGIN",
+      "ip_address": "49.149.100.71",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-15T01:14:10.139Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 266,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-15T01:53:35.631Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 267,
+    "fields": {
+      "user": 453,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-15T04:37:55.421Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 268,
+    "fields": {
+      "user": 453,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-15T04:38:44.146Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 269,
+    "fields": {
+      "user": 233,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-16T01:27:13.864Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 270,
+    "fields": {
+      "user": 449,
+      "action": "LOGIN",
+      "ip_address": "210.185.171.230",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-16T01:32:13.840Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 271,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-16T02:10:36.966Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 272,
+    "fields": {
+      "user": 233,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-16T03:12:10.248Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 273,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-16T07:05:20.145Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 274,
+    "fields": {
+      "user": 409,
+      "action": "LOGIN",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-16T07:31:08.300Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 275,
+    "fields": {
+      "user": 152,
+      "action": "LOGIN",
+      "ip_address": "180.191.126.104",
+      "country": "Philippines",
+      "city": "Tagum Norte",
+      "latitude": "10.0654",
+      "longitude": "124.383",
+      "timestamp": "2020-09-17T02:42:09.845Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 276,
+    "fields": {
+      "user": 263,
+      "action": "LOGIN",
+      "ip_address": "175.176.91.68",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-17T06:57:22.573Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 277,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-17T08:05:13.956Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 278,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.190.78.239",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-17T14:13:49.281Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 279,
+    "fields": {
+      "user": 148,
+      "action": "LOGIN",
+      "ip_address": "175.176.95.20",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-17T15:11:20.806Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 280,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.122.157",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-18T02:02:06.619Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 281,
+    "fields": {
+      "user": 206,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-18T02:08:08.806Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 282,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.122.157",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-18T07:47:02.846Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 283,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-18T07:48:31.889Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 284,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-18T11:33:53.505Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 285,
+    "fields": {
+      "user": 206,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-18T14:00:11.830Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 286,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.191.87.205",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-19T03:47:56.795Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 287,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-19T09:49:54.101Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 288,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.191.87.205",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-19T13:35:15.619Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 289,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "180.190.79.122",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-20T02:39:50.257Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 290,
+    "fields": {
+      "user": 224,
+      "action": "LOGIN",
+      "ip_address": "49.149.79.87",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-20T10:38:23.828Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 291,
+    "fields": {
+      "user": 148,
+      "action": "LOGIN",
+      "ip_address": "175.176.95.30",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-20T23:22:52.247Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 292,
+    "fields": {
+      "user": 206,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T03:46:01.738Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 293,
+    "fields": {
+      "user": 148,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T04:33:58.621Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 294,
+    "fields": {
+      "user": 279,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T06:14:48.385Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 295,
+    "fields": {
+      "user": 98,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T06:15:30.995Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 296,
+    "fields": {
+      "user": 306,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T06:17:02.946Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 297,
+    "fields": {
+      "user": 206,
+      "action": "LOGOUT",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T07:35:39.945Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 298,
+    "fields": {
+      "user": 139,
+      "action": "LOGOUT",
+      "ip_address": "180.190.78.114",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T08:46:11.434Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 299,
+    "fields": {
+      "user": 224,
+      "action": "LOGOUT",
+      "ip_address": "49.149.79.104",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-21T11:42:10.359Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 300,
+    "fields": {
+      "user": 206,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-22T00:42:25.930Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 301,
+    "fields": {
+      "user": 427,
+      "action": "LOGIN",
+      "ip_address": "210.185.171.163",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-22T00:50:33.182Z"
+    }
+  },
+  {
+    "model": "authentication.log",
+    "pk": 302,
+    "fields": {
+      "user": 139,
+      "action": "LOGIN",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-22T02:14:31.150Z"
+    }
+  }
+]

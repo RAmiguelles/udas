@@ -1,0 +1,4420 @@
+[
+  {
+    "model": "document.type",
+    "pk": 1,
+    "fields": {
+      "name": "Others",
+      "created_at": "2020-04-20T04:42:07.964Z"
+    }
+  },
+  {
+    "model": "document.type",
+    "pk": 2,
+    "fields": {
+      "name": "Letter",
+      "created_at": "2020-04-20T05:53:19.638Z"
+    }
+  },
+  {
+    "model": "document.type",
+    "pk": 3,
+    "fields": {
+      "name": "Manual",
+      "created_at": "2020-04-20T05:55:37.397Z"
+    }
+  },
+  {
+    "model": "document.type",
+    "pk": 4,
+    "fields": {
+      "name": "Memorandum",
+      "created_at": "2020-09-09T06:33:30.443Z"
+    }
+  },
+  {
+    "model": "document.type",
+    "pk": 5,
+    "fields": {
+      "name": "Minutes",
+      "created_at": "2020-09-09T06:33:39.629Z"
+    }
+  },
+  {
+    "model": "document.type",
+    "pk": 6,
+    "fields": {
+      "name": "Resolution",
+      "created_at": "2020-09-09T06:33:48.609Z"
+    }
+  },
+  {
+    "model": "document.type",
+    "pk": 7,
+    "fields": {
+      "name": "Special Order",
+      "created_at": "2020-09-09T06:33:56.497Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 1,
+    "fields": {
+      "user": 5,
+      "title": "sak",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-20T04:45:06.705Z",
+      "updated_at": "2020-04-20T04:45:06.705Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 2,
+    "fields": {
+      "user": 5,
+      "title": "sak",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-20T04:48:57.337Z",
+      "updated_at": "2020-04-20T04:48:57.337Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 3,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Revision",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-21T08:12:38.419Z",
+      "updated_at": "2020-04-21T08:12:38.419Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 4,
+    "fields": {
+      "user": 70,
+      "title": "University Library Advisory Board",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T01:57:24.176Z",
+      "updated_at": "2020-04-22T01:57:24.176Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 5,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual - Old Version",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T05:44:01.916Z",
+      "updated_at": "2020-04-22T05:44:01.916Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 6,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Memorandum",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T06:43:51.349Z",
+      "updated_at": "2020-04-22T06:43:51.349Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 7,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Minutes",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T08:09:16.172Z",
+      "updated_at": "2020-04-22T08:09:16.172Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 8,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Resolution",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T11:01:35.547Z",
+      "updated_at": "2020-04-22T11:01:35.547Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 9,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Resolution",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T11:07:01.406Z",
+      "updated_at": "2020-04-22T11:07:01.406Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 10,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Resolution",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T12:43:07.924Z",
+      "updated_at": "2020-04-22T12:43:07.924Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 11,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Resolution",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T12:44:39.158Z",
+      "updated_at": "2020-04-22T12:44:39.158Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 12,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Revision - updated",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T12:55:01.233Z",
+      "updated_at": "2020-04-22T12:55:01.233Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 13,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Revision - updated",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-22T12:59:49.285Z",
+      "updated_at": "2020-04-22T12:59:49.285Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 14,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Revision",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:06.522Z",
+      "updated_at": "2020-04-23T03:23:06.522Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 15,
+    "fields": {
+      "user": 70,
+      "title": "University Library Advisory Board",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:06.690Z",
+      "updated_at": "2020-04-23T03:23:06.690Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 16,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual - Old Version",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:06.965Z",
+      "updated_at": "2020-04-23T03:23:06.965Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 17,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Memorandum",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:07.142Z",
+      "updated_at": "2020-04-23T03:23:07.142Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 18,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Minutes",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:07.253Z",
+      "updated_at": "2020-04-23T03:23:07.253Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 19,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Resolution",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:07.371Z",
+      "updated_at": "2020-04-23T03:23:07.371Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 20,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Revision - updated",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:07.537Z",
+      "updated_at": "2020-04-23T03:23:07.537Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 21,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Revision - updated",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T03:23:07.612Z",
+      "updated_at": "2020-04-23T03:23:07.613Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 22,
+    "fields": {
+      "user": 70,
+      "title": "Library Operations Manual",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T05:59:20.720Z",
+      "updated_at": "2020-04-23T05:59:20.720Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 23,
+    "fields": {
+      "user": 70,
+      "title": "Library Manual Revision - updated",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-04-23T06:01:03.388Z",
+      "updated_at": "2020-04-23T06:01:03.388Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 24,
+    "fields": {
+      "user": 5,
+      "title": "Sample",
+      "description": "",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-06-19T10:31:12.466Z",
+      "updated_at": "2020-06-19T10:31:12.466Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 25,
+    "fields": {
+      "user": 38,
+      "title": "SO 366-2020 Ms. Divinagracia G. Lagura as  Admin Staff for the Capacity Development Program",
+      "description": "Designation of Ms. Divinagracia G. Lagura as Admin Staff for the Capacity Development Program",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-06-30T07:24:24.711Z",
+      "updated_at": "2020-06-30T07:31:23.186Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 26,
+    "fields": {
+      "user": 37,
+      "title": "MC02-2020 USeP Academic Regulations amidst the COVID-19 Pandemic",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-07-07T00:52:32.774Z",
+      "updated_at": "2020-07-07T00:53:44.271Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 27,
+    "fields": {
+      "user": 37,
+      "title": "MC03-2020  Administrative Guidelines upon Resumption of Work and Conduct of Classes under the New No",
+      "description": "MC03-2020 Memorandum Circular on Administrative Guidelines upon Resumption of Work and Conduct of Classes under the New Normal Condition",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-07-07T00:57:21.062Z",
+      "updated_at": "2020-07-07T00:57:21.062Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 28,
+    "fields": {
+      "user": 37,
+      "title": "MC01-2020 USeP VoIP Telephone System Usage Guidelines",
+      "description": "MC01-2020 USeP VoIP Telephone System Usage Guidelines",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-07-07T01:04:29.128Z",
+      "updated_at": "2020-07-07T01:04:29.128Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 29,
+    "fields": {
+      "user": 37,
+      "title": "MC02-2019 Harmonized Guidelines on Limited Practice of Profession and Private Enterprise Management",
+      "description": "Harmonized Guidelines on Limited Practice of Profession and Private Enterprise Management (HaGLiPPPEM)",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-07-07T01:18:08.165Z",
+      "updated_at": "2020-07-07T01:18:08.165Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 30,
+    "fields": {
+      "user": 37,
+      "title": "MC01-2019 Guidelines in Processing Travel Authority Requests",
+      "description": "MC01-2019 Guidelines in Processing Travel Authority Requests",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-07-07T01:23:34.802Z",
+      "updated_at": "2020-07-07T01:23:34.802Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 31,
+    "fields": {
+      "user": 37,
+      "title": "MC03-2019 Policy on Banning Single-Use Plastics ATSUP and Its Implementing Guidelines",
+      "description": "MC03-2019 Policy on Banning Single-Use Plastics (ATSUP) and Its Implementing Guidelines",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-07-07T01:32:52.803Z",
+      "updated_at": "2020-07-07T01:32:52.803Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 32,
+    "fields": {
+      "user": 6,
+      "title": "USeP Virtual Environment",
+      "description": "",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-07-21T05:54:29.381Z",
+      "updated_at": "2020-07-21T05:54:29.381Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 33,
+    "fields": {
+      "user": 5,
+      "title": "VMGO",
+      "description": "Vision Mission and Goals",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-07-22T02:50:34.617Z",
+      "updated_at": "2020-07-22T02:50:34.617Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 34,
+    "fields": {
+      "user": 5,
+      "title": "Sample Document",
+      "description": "Sample description",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-07-27T05:27:27.837Z",
+      "updated_at": "2020-07-27T05:30:39.048Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 35,
+    "fields": {
+      "user": 5,
+      "title": "VMGO",
+      "description": "",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-07-27T05:31:34.314Z",
+      "updated_at": "2020-07-27T05:31:34.314Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 36,
+    "fields": {
+      "user": 6,
+      "title": "VMGO",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-07-27T05:33:39.227Z",
+      "updated_at": "2020-07-27T05:33:39.227Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 37,
+    "fields": {
+      "user": 5,
+      "title": "Sample",
+      "description": "",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-07-27T05:39:03.160Z",
+      "updated_at": "2020-07-27T05:39:03.160Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 38,
+    "fields": {
+      "user": 5,
+      "title": "Sample",
+      "description": "",
+      "is_public": false,
+      "type": 2,
+      "created_at": "2020-09-09T14:43:17.970Z",
+      "updated_at": "2020-09-09T18:00:21.773Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 39,
+    "fields": {
+      "user": 5,
+      "title": "Action Plan 2020 Final Draft",
+      "description": "This document contains the action plan of SDMD for the year 2020.",
+      "is_public": true,
+      "type": 4,
+      "created_at": "2020-09-09T17:06:24.029Z",
+      "updated_at": "2020-09-09T17:56:12.457Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 40,
+    "fields": {
+      "user": 5,
+      "title": "Action Plan 2020 ",
+      "description": "This document contains the action plan of SDMD for the year 2020.",
+      "is_public": false,
+      "type": 7,
+      "created_at": "2020-09-09T17:46:49.294Z",
+      "updated_at": "2020-09-09T17:57:23.239Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 41,
+    "fields": {
+      "user": 5,
+      "title": "Action Plan 2020 Final",
+      "description": "This document contains the action plan of SDMD for the year 2020.",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-09T17:48:41.762Z",
+      "updated_at": "2020-09-09T17:48:41.762Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 42,
+    "fields": {
+      "user": 5,
+      "title": "Action Plan 2020 Final",
+      "description": "This document contains the action plan of SDMD for the year 2020.",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-09T17:50:02.168Z",
+      "updated_at": "2020-09-09T17:50:02.168Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 43,
+    "fields": {
+      "user": 6,
+      "title": "1",
+      "description": "",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-10T00:46:50.454Z",
+      "updated_at": "2020-09-10T00:46:50.454Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 44,
+    "fields": {
+      "user": 5,
+      "title": "Accomplishment September 2020",
+      "description": "This document contains the accomplishments for the month of September.",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-10T03:48:54.475Z",
+      "updated_at": "2020-09-10T03:51:51.571Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 45,
+    "fields": {
+      "user": 427,
+      "title": "OBE BS Agricultural Engineering",
+      "description": "This documents contains the OBE of AgEng",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-10T03:49:51.211Z",
+      "updated_at": "2020-09-10T03:53:07.649Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 46,
+    "fields": {
+      "user": 5,
+      "title": "Sample",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-10T03:52:42.992Z",
+      "updated_at": "2020-09-10T03:52:42.992Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 47,
+    "fields": {
+      "user": 37,
+      "title": "MC02-2020 USeP Academic Regulations amidst the COVID-19 Pandemic",
+      "description": "",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-10T04:57:35.299Z",
+      "updated_at": "2020-09-10T04:57:35.299Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 48,
+    "fields": {
+      "user": 5,
+      "title": "Accomplishment September 2020",
+      "description": "This document contains the accomplishments for the month of September.",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-10T05:46:30.867Z",
+      "updated_at": "2020-09-10T05:46:30.867Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 49,
+    "fields": {
+      "user": 409,
+      "title": "VMGO",
+      "description": "This is USeP's VMGO",
+      "is_public": false,
+      "type": 4,
+      "created_at": "2020-09-10T05:48:01.668Z",
+      "updated_at": "2020-09-10T05:48:01.668Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 50,
+    "fields": {
+      "user": 5,
+      "title": "Accomplishment ",
+      "description": "This document contains the accomplishments for the month of September.",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-10T05:48:21.157Z",
+      "updated_at": "2020-09-10T05:55:29.414Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 51,
+    "fields": {
+      "user": 5,
+      "title": "Accomplishment September 2020",
+      "description": "This document contains the accomplishments for the month of September.",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-10T05:52:55.559Z",
+      "updated_at": "2020-09-10T05:52:55.559Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 52,
+    "fields": {
+      "user": 409,
+      "title": "Administrative Manual",
+      "description": "This is the administrative manual of USeP.",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-10T06:13:31.792Z",
+      "updated_at": "2020-09-10T06:13:31.792Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 53,
+    "fields": {
+      "user": 6,
+      "title": "CIC VMGO",
+      "description": "",
+      "is_public": false,
+      "type": 5,
+      "created_at": "2020-09-10T06:46:49.105Z",
+      "updated_at": "2020-09-10T06:46:49.105Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 54,
+    "fields": {
+      "user": 5,
+      "title": "Accomplishment ",
+      "description": "This document contains the accomplishments for the month of September.",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-10T06:51:02.299Z",
+      "updated_at": "2020-09-10T06:51:02.299Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 55,
+    "fields": {
+      "user": 205,
+      "title": "AACCUP Instruments",
+      "description": "AACCUP Instruments Teacher Education",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-10T06:52:54.312Z",
+      "updated_at": "2020-09-10T06:52:54.312Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 56,
+    "fields": {
+      "user": 449,
+      "title": "PPP",
+      "description": "Program Performance Profile",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-11T02:06:24.547Z",
+      "updated_at": "2020-09-11T02:06:24.547Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 57,
+    "fields": {
+      "user": 449,
+      "title": "PhD Compliance Report",
+      "description": "Compliance Report of the Previous AACUP's recommendations.",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-11T02:10:11.019Z",
+      "updated_at": "2020-09-11T02:10:11.019Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 58,
+    "fields": {
+      "user": 5,
+      "title": "liasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilas",
+      "description": "liasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilas",
+      "is_public": false,
+      "type": 4,
+      "created_at": "2020-09-11T06:26:13.002Z",
+      "updated_at": "2020-09-11T06:26:13.002Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 59,
+    "fields": {
+      "user": 224,
+      "title": "sample",
+      "description": "sample",
+      "is_public": false,
+      "type": 1,
+      "created_at": "2020-09-16T08:12:59.803Z",
+      "updated_at": "2020-09-16T08:12:59.803Z"
+    }
+  },
+  {
+    "model": "document.document",
+    "pk": 60,
+    "fields": {
+      "user": 5,
+      "title": "sample",
+      "description": "",
+      "is_public": false,
+      "type": 3,
+      "created_at": "2020-09-18T06:09:11.474Z",
+      "updated_at": "2020-09-18T06:09:11.474Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 1,
+    "fields": {
+      "document": 1,
+      "attachment": "attachments/Presentation1_qydq0oU.pptx",
+      "created_at": "2020-04-20T04:45:06.746Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 2,
+    "fields": {
+      "document": 2,
+      "attachment": "attachments/Presentation1_qydq0oU.pptx",
+      "created_at": "2020-04-20T04:48:57.378Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 3,
+    "fields": {
+      "document": 3,
+      "attachment": "attachments/S.3._-_Library_Manual_Revision_ItwmPkm.pdf",
+      "created_at": "2020-04-21T08:12:38.457Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 4,
+    "fields": {
+      "document": 4,
+      "attachment": "attachments/S.3._-_University_Library_Advisory_Board_v5hPa7G.pdf",
+      "created_at": "2020-04-22T01:57:24.226Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 5,
+    "fields": {
+      "document": 5,
+      "attachment": "attachments/Library_Manual_-_Old_Version.pdf",
+      "created_at": "2020-04-22T05:44:01.950Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 6,
+    "fields": {
+      "document": 6,
+      "attachment": "attachments/Library_Manual_Memorandum.pdf",
+      "created_at": "2020-04-22T06:43:51.390Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 7,
+    "fields": {
+      "document": 7,
+      "attachment": "attachments/Library_Manual_Minutes.pdf",
+      "created_at": "2020-04-22T08:09:16.212Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 8,
+    "fields": {
+      "document": 11,
+      "attachment": "attachments/Library_Manual_Resolution.pdf",
+      "created_at": "2020-04-22T12:44:39.195Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 9,
+    "fields": {
+      "document": 14,
+      "attachment": "attachments/S.3._-_Library_Manual_Revision_ItwmPkm.pdf",
+      "created_at": "2020-04-23T03:23:06.559Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 10,
+    "fields": {
+      "document": 15,
+      "attachment": "attachments/S.3._-_University_Library_Advisory_Board_v5hPa7G.pdf",
+      "created_at": "2020-04-23T03:23:06.825Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 11,
+    "fields": {
+      "document": 16,
+      "attachment": "attachments/Library_Manual_-_Old_Version.pdf",
+      "created_at": "2020-04-23T03:23:07.004Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 12,
+    "fields": {
+      "document": 17,
+      "attachment": "attachments/Library_Manual_Memorandum.pdf",
+      "created_at": "2020-04-23T03:23:07.176Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 13,
+    "fields": {
+      "document": 18,
+      "attachment": "attachments/Library_Manual_Minutes.pdf",
+      "created_at": "2020-04-23T03:23:07.288Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 14,
+    "fields": {
+      "document": 19,
+      "attachment": "attachments/Library_Manual_Resolution.pdf",
+      "created_at": "2020-04-23T03:23:07.404Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 15,
+    "fields": {
+      "document": 22,
+      "attachment": "attachments/Library_Operations_Manual.pdf",
+      "created_at": "2020-04-23T05:59:20.768Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 16,
+    "fields": {
+      "document": 23,
+      "attachment": "attachments/Library_Manual_Revision_-_updated.pdf",
+      "created_at": "2020-04-23T06:01:03.426Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 17,
+    "fields": {
+      "document": 24,
+      "attachment": "attachments/FM-USeP-HCF-01-Customers-Feedback-Form-i04_r03_e2019Apr01-1.docx",
+      "created_at": "2020-06-19T10:31:12.466Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 18,
+    "fields": {
+      "document": 25,
+      "attachment": "attachments/SO366-2020_Designation_of_MS._DIVINAGRACIA_G._LAGURA_as_Admin_Staff_for_the__wwmgKVO.pdf",
+      "created_at": "2020-06-30T07:24:24.711Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 20,
+    "fields": {
+      "document": 26,
+      "attachment": "attachments/MC_02_s_2020_-_Memorandum_Circular_on_USeP_Academic_Regulations_amidst_the_C_pwiH4jQ.pdf",
+      "created_at": "2020-07-07T00:53:44.282Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 21,
+    "fields": {
+      "document": 27,
+      "attachment": "attachments/MC03-2020_Memorandum_Circular_on_Administrative_Guidelines_upon_Resumption_o_xpnduUV.pdf",
+      "created_at": "2020-07-07T00:57:21.070Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 22,
+    "fields": {
+      "document": 28,
+      "attachment": "attachments/MC01-2020_USeP_VoIP_Telephone_System_Usage_Guidelines.pdf",
+      "created_at": "2020-07-07T01:04:29.136Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 23,
+    "fields": {
+      "document": 29,
+      "attachment": "attachments/MC02-2019_HaGLiPPPEM_2019.pdf",
+      "created_at": "2020-07-07T01:18:08.174Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 24,
+    "fields": {
+      "document": 30,
+      "attachment": "attachments/MC01-2019_Guidelines_in_Processing_Travel_Authority_Requests.pdf",
+      "created_at": "2020-07-07T01:23:34.814Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 25,
+    "fields": {
+      "document": 31,
+      "attachment": "attachments/MC03-2019_Policy_on_Banning_Single-Use_Plastics_ATSUP_and_Its_Implementing_G_IBXxOVQ.pdf",
+      "created_at": "2020-07-07T01:32:52.815Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 26,
+    "fields": {
+      "document": 32,
+      "attachment": "attachments/Registration_and_Authentication.pdf",
+      "created_at": "2020-07-21T05:54:29.386Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 27,
+    "fields": {
+      "document": 33,
+      "attachment": "attachments/1902-January-2018-ENCS-final_qyt9Zar.pdf",
+      "created_at": "2020-07-22T02:50:34.624Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 29,
+    "fields": {
+      "document": 34,
+      "attachment": "attachments/1902-January-2018-ENCS-final_7Bd2qR4.pdf",
+      "created_at": "2020-07-27T05:30:39.056Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 30,
+    "fields": {
+      "document": 35,
+      "attachment": "attachments/Presentation1_zueJaNp.pptx",
+      "created_at": "2020-07-27T05:31:34.318Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 31,
+    "fields": {
+      "document": 36,
+      "attachment": "attachments/VMG_Statement.pdf",
+      "created_at": "2020-07-27T05:33:39.227Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 32,
+    "fields": {
+      "document": 37,
+      "attachment": "attachments/FM-USeP-HCF-01-Customers-Feedback-Form-i04_r03_e2019Apr01-1.docx",
+      "created_at": "2020-07-27T05:39:03.165Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 37,
+    "fields": {
+      "document": 39,
+      "attachment": "attachments/2019-KMSD-FM-USeP-APF-02-PPMP_7TEYaN2.xls",
+      "created_at": "2020-09-09T17:09:57.427Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 38,
+    "fields": {
+      "document": 38,
+      "attachment": "attachments/2019-KMSD-FM-USeP-APF-02-PPMP_wJGOkna.xls",
+      "created_at": "2020-09-09T17:13:10.466Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 39,
+    "fields": {
+      "document": 40,
+      "attachment": "attachments/2019-KMSD-FM-USeP-APF-02-PPMP_7TEYaN2.xls",
+      "created_at": "2020-09-09T17:46:49.298Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 40,
+    "fields": {
+      "document": 41,
+      "attachment": "attachments/2019-KMSD-FM-USeP-APF-02-PPMP_7TEYaN2.xls",
+      "created_at": "2020-09-09T17:48:41.766Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 41,
+    "fields": {
+      "document": 42,
+      "attachment": "attachments/2019-KMSD-FM-USeP-APF-02-PPMP_7TEYaN2.xls",
+      "created_at": "2020-09-09T17:50:02.184Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 42,
+    "fields": {
+      "document": 43,
+      "attachment": "attachments/File1.pdf",
+      "created_at": "2020-09-10T00:46:50.461Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 44,
+    "fields": {
+      "document": 45,
+      "attachment": "attachments/OBE-Agricultural_Engineering.pdf",
+      "created_at": "2020-09-10T03:49:51.223Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 45,
+    "fields": {
+      "document": 44,
+      "attachment": "attachments/Accomplishment-Report-August-1-15_MU92M6W.docx",
+      "created_at": "2020-09-10T03:51:51.579Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 46,
+    "fields": {
+      "document": 46,
+      "attachment": "attachments/Presentation1_9rAgPeE.pptx",
+      "created_at": "2020-09-10T03:52:42.996Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 47,
+    "fields": {
+      "document": 47,
+      "attachment": "attachments/MC_02_s_2020_-_Memorandum_Circular_on_USeP_Academic_Regulations_amidst_the_C_pwiH4jQ.pdf",
+      "created_at": "2020-09-10T04:57:35.305Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 48,
+    "fields": {
+      "document": 48,
+      "attachment": "attachments/Accomplishment-Report-August-1-15_MU92M6W.docx",
+      "created_at": "2020-09-10T05:46:30.871Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 49,
+    "fields": {
+      "document": 49,
+      "attachment": "attachments/AS-1_Published_Vision_Mission_Statement.pdf",
+      "created_at": "2020-09-10T05:48:01.674Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 50,
+    "fields": {
+      "document": 50,
+      "attachment": "attachments/Accomplishment-Report-August-1-15_MU92M6W.docx",
+      "created_at": "2020-09-10T05:48:21.163Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 51,
+    "fields": {
+      "document": 51,
+      "attachment": "attachments/Accomplishment-Report-August-1-15_MU92M6W.docx",
+      "created_at": "2020-09-10T05:52:55.566Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 52,
+    "fields": {
+      "document": 52,
+      "attachment": "attachments/AS-9_Manual_and_Standard_operating_procedure-FOI-Manual-USeP-as-of-28-December-2018.pdf",
+      "created_at": "2020-09-10T06:13:31.960Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 53,
+    "fields": {
+      "document": 53,
+      "attachment": "attachments/Accomplishment-Report-August-1-15_BdAGSKI.docx",
+      "created_at": "2020-09-10T06:46:49.112Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 54,
+    "fields": {
+      "document": 54,
+      "attachment": "attachments/Accomplishment-Report-August-1-15_MU92M6W.docx",
+      "created_at": "2020-09-10T06:51:02.303Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 55,
+    "fields": {
+      "document": 55,
+      "attachment": "attachments/OBE-Elementary_Education.pdf",
+      "created_at": "2020-09-10T06:52:54.323Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 56,
+    "fields": {
+      "document": 56,
+      "attachment": "attachments/PPP_AREA_IX_-_Laboratories_PhD_02.07.2020.docx",
+      "created_at": "2020-09-11T02:06:24.552Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 57,
+    "fields": {
+      "document": 57,
+      "attachment": "attachments/PhD_-_Laboratories_compliance_matrix_02.03.2020.doc",
+      "created_at": "2020-09-11T02:10:11.023Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 58,
+    "fields": {
+      "document": 58,
+      "attachment": "attachments/Accomplishment-Report-August-1-15_450tq8f.docx",
+      "created_at": "2020-09-11T06:26:13.007Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 59,
+    "fields": {
+      "document": 59,
+      "attachment": "attachments/25060.jpg",
+      "created_at": "2020-09-16T08:12:59.818Z"
+    }
+  },
+  {
+    "model": "document.attachment",
+    "pk": 60,
+    "fields": {
+      "document": 60,
+      "attachment": "attachments/1902-January-2018-ENCS-final_9LLItDM.pdf",
+      "created_at": "2020-09-18T06:09:11.474Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 1,
+    "fields": {
+      "document": 33,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-07-22T02:50:34.626Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 2,
+    "fields": {
+      "document": 34,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-07-27T05:30:39.059Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 11,
+    "fields": {
+      "document": 41,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-09T17:48:41.770Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 12,
+    "fields": {
+      "document": 41,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-09T17:48:41.772Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 13,
+    "fields": {
+      "document": 41,
+      "key": "Version",
+      "value": "Final",
+      "created_at": "2020-09-09T17:48:41.774Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 14,
+    "fields": {
+      "document": 42,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-09T17:50:02.184Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 15,
+    "fields": {
+      "document": 42,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-09T17:50:02.184Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 16,
+    "fields": {
+      "document": 42,
+      "key": "Version",
+      "value": "Final",
+      "created_at": "2020-09-09T17:50:02.184Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 17,
+    "fields": {
+      "document": 39,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-09T17:56:12.463Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 18,
+    "fields": {
+      "document": 39,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-09T17:56:12.465Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 19,
+    "fields": {
+      "document": 39,
+      "key": "Version",
+      "value": "Final",
+      "created_at": "2020-09-09T17:56:12.467Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 20,
+    "fields": {
+      "document": 40,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-09T17:57:23.245Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 21,
+    "fields": {
+      "document": 40,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-09T17:57:23.246Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 22,
+    "fields": {
+      "document": 40,
+      "key": "Version",
+      "value": "Final",
+      "created_at": "2020-09-09T17:57:23.251Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 26,
+    "fields": {
+      "document": 44,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-10T03:51:51.584Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 27,
+    "fields": {
+      "document": 44,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-10T03:51:51.586Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 28,
+    "fields": {
+      "document": 48,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-10T05:46:30.875Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 29,
+    "fields": {
+      "document": 48,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-10T05:46:30.876Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 32,
+    "fields": {
+      "document": 51,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-10T05:52:55.571Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 33,
+    "fields": {
+      "document": 51,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-10T05:52:55.573Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 36,
+    "fields": {
+      "document": 50,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-10T05:55:29.422Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 37,
+    "fields": {
+      "document": 50,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-10T05:55:29.423Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 38,
+    "fields": {
+      "document": 54,
+      "key": "Year",
+      "value": "2020",
+      "created_at": "2020-09-10T06:51:02.307Z"
+    }
+  },
+  {
+    "model": "document.attribute",
+    "pk": 39,
+    "fields": {
+      "document": 54,
+      "key": "Office",
+      "value": "SDMD",
+      "created_at": "2020-09-10T06:51:02.309Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 4,
+    "fields": {
+      "document": 25,
+      "keyword": "Special Order ",
+      "created_at": "2020-06-30T07:31:23.202Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 5,
+    "fields": {
+      "document": 25,
+      "keyword": "Divinagracia Lagura",
+      "created_at": "2020-06-30T07:31:23.202Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 6,
+    "fields": {
+      "document": 25,
+      "keyword": "Capacity Development",
+      "created_at": "2020-06-30T07:31:23.202Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 10,
+    "fields": {
+      "document": 26,
+      "keyword": "Memorandum Circular",
+      "created_at": "2020-07-07T00:53:44.289Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 11,
+    "fields": {
+      "document": 26,
+      "keyword": "COVID-19",
+      "created_at": "2020-07-07T00:53:44.292Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 12,
+    "fields": {
+      "document": 26,
+      "keyword": "Pandemic",
+      "created_at": "2020-07-07T00:53:44.293Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 13,
+    "fields": {
+      "document": 27,
+      "keyword": "COVID-19",
+      "created_at": "2020-07-07T00:57:21.072Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 14,
+    "fields": {
+      "document": 27,
+      "keyword": "Memorandum Circular",
+      "created_at": "2020-07-07T00:57:21.073Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 15,
+    "fields": {
+      "document": 28,
+      "keyword": "Memorandum Circular",
+      "created_at": "2020-07-07T01:04:29.139Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 16,
+    "fields": {
+      "document": 28,
+      "keyword": "VoIP",
+      "created_at": "2020-07-07T01:04:29.141Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 17,
+    "fields": {
+      "document": 28,
+      "keyword": "Telephone",
+      "created_at": "2020-07-07T01:04:29.143Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 18,
+    "fields": {
+      "document": 28,
+      "keyword": "Guidelines",
+      "created_at": "2020-07-07T01:04:29.146Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 19,
+    "fields": {
+      "document": 29,
+      "keyword": "Memorandum Circular",
+      "created_at": "2020-07-07T01:18:08.177Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 20,
+    "fields": {
+      "document": 29,
+      "keyword": "HaGLiPPPEM",
+      "created_at": "2020-07-07T01:18:08.179Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 21,
+    "fields": {
+      "document": 29,
+      "keyword": "Guidelines",
+      "created_at": "2020-07-07T01:18:08.181Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 22,
+    "fields": {
+      "document": 30,
+      "keyword": "Memorandum Circular",
+      "created_at": "2020-07-07T01:23:34.816Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 23,
+    "fields": {
+      "document": 30,
+      "keyword": "Travel",
+      "created_at": "2020-07-07T01:23:34.818Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 24,
+    "fields": {
+      "document": 30,
+      "keyword": "Guidelines",
+      "created_at": "2020-07-07T01:23:34.821Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 25,
+    "fields": {
+      "document": 31,
+      "keyword": "ATSUP",
+      "created_at": "2020-07-07T01:32:52.817Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 26,
+    "fields": {
+      "document": 31,
+      "keyword": "Single-Use Plastics",
+      "created_at": "2020-07-07T01:32:52.818Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 27,
+    "fields": {
+      "document": 31,
+      "keyword": "Guidelines",
+      "created_at": "2020-07-07T01:32:52.820Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 28,
+    "fields": {
+      "document": 31,
+      "keyword": "Memorandum Circular",
+      "created_at": "2020-07-07T01:32:52.822Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 29,
+    "fields": {
+      "document": 33,
+      "keyword": "Vision",
+      "created_at": "2020-07-22T02:50:34.628Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 30,
+    "fields": {
+      "document": 33,
+      "keyword": "Mission",
+      "created_at": "2020-07-22T02:50:34.629Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 31,
+    "fields": {
+      "document": 33,
+      "keyword": "Goals",
+      "created_at": "2020-07-22T02:50:34.631Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 35,
+    "fields": {
+      "document": 34,
+      "keyword": "Vision",
+      "created_at": "2020-07-27T05:30:39.065Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 36,
+    "fields": {
+      "document": 34,
+      "keyword": "Sample",
+      "created_at": "2020-07-27T05:30:39.067Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 41,
+    "fields": {
+      "document": 41,
+      "keyword": "Plan",
+      "created_at": "2020-09-09T17:48:41.777Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 42,
+    "fields": {
+      "document": 42,
+      "keyword": "Plan",
+      "created_at": "2020-09-09T17:50:02.200Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 43,
+    "fields": {
+      "document": 39,
+      "keyword": "Plan",
+      "created_at": "2020-09-09T17:56:12.470Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 44,
+    "fields": {
+      "document": 40,
+      "keyword": "Plan",
+      "created_at": "2020-09-09T17:57:23.258Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 45,
+    "fields": {
+      "document": 38,
+      "keyword": "Sample",
+      "created_at": "2020-09-09T18:00:21.781Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 48,
+    "fields": {
+      "document": 44,
+      "keyword": "Accomplishment",
+      "created_at": "2020-09-10T03:51:51.594Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 49,
+    "fields": {
+      "document": 47,
+      "keyword": "Memorandum Circular",
+      "created_at": "2020-09-10T04:57:35.309Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 50,
+    "fields": {
+      "document": 47,
+      "keyword": "COVID-19",
+      "created_at": "2020-09-10T04:57:35.311Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 51,
+    "fields": {
+      "document": 47,
+      "keyword": "Pandemic",
+      "created_at": "2020-09-10T04:57:35.313Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 52,
+    "fields": {
+      "document": 48,
+      "keyword": "Accomplishment",
+      "created_at": "2020-09-10T05:46:30.879Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 54,
+    "fields": {
+      "document": 51,
+      "keyword": "Accomplishment",
+      "created_at": "2020-09-10T05:52:55.578Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 56,
+    "fields": {
+      "document": 50,
+      "keyword": "Accomplishment",
+      "created_at": "2020-09-10T05:55:29.428Z"
+    }
+  },
+  {
+    "model": "document.keyword",
+    "pk": 57,
+    "fields": {
+      "document": 54,
+      "keyword": "Accomplishment",
+      "created_at": "2020-09-10T06:51:02.313Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 1,
+    "fields": {
+      "user": 5,
+      "document": 1,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 1 | DIRECTORY ID: 3 | TITLE: sak | TYPE: Others | ATTACHMENT ID: 1",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-20T04:45:06.826Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 2,
+    "fields": {
+      "user": 5,
+      "document": 2,
+      "action": "COPY",
+      "details": "DOCDIR ID: 2 | SOURCE DOCDIR ID: Knowledge Management Division sak | TITLE: sak | TYPE: Others | ATTACHMENT ID: 2",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-20T04:48:57.581Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 3,
+    "fields": {
+      "user": 5,
+      "document": 2,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 2",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-20T04:49:25.513Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 4,
+    "fields": {
+      "user": 8,
+      "document": 2,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 2",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-20T04:50:49.124Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 5,
+    "fields": {
+      "user": 70,
+      "document": 3,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 3 | DIRECTORY ID: 746 | TITLE: Library Manual Revision | TYPE: Others | ATTACHMENT ID: 3",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-21T08:12:38.541Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 6,
+    "fields": {
+      "user": 70,
+      "document": 4,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 4 | DIRECTORY ID: 746 | TITLE: University Library Advisory Board | TYPE: Others | ATTACHMENT ID: 4",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-22T01:57:24.429Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 7,
+    "fields": {
+      "user": 70,
+      "document": 5,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 5 | DIRECTORY ID: 747 | TITLE: Library Manual - Old Version | TYPE: Others | ATTACHMENT ID: 5",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T05:44:02.019Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 8,
+    "fields": {
+      "user": 70,
+      "document": 6,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 6 | DIRECTORY ID: 747 | TITLE: Library Manual Memorandum | TYPE: Others | ATTACHMENT ID: 6",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T06:43:51.589Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 9,
+    "fields": {
+      "user": 70,
+      "document": 7,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 7 | DIRECTORY ID: 747 | TITLE: Library Manual Minutes | TYPE: Others | ATTACHMENT ID: 7",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T08:09:16.293Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 10,
+    "fields": {
+      "user": 70,
+      "document": 8,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 8 | DIRECTORY ID: 747 | TITLE: Library Manual Resolution | TYPE: Others",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-22T11:01:35.691Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 11,
+    "fields": {
+      "user": 70,
+      "document": 9,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 9 | DIRECTORY ID: 747 | TITLE: Library Manual Resolution | TYPE: Others",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-22T11:07:01.624Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 12,
+    "fields": {
+      "user": 70,
+      "document": 8,
+      "action": "DELETE",
+      "details": "ID: 8 | TITLE: Library Manual Resolution | TYPE: Others",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T12:39:13.440Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 13,
+    "fields": {
+      "user": 70,
+      "document": 9,
+      "action": "DELETE",
+      "details": "ID: 9 | TITLE: Library Manual Resolution | TYPE: Others",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T12:39:24.403Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 14,
+    "fields": {
+      "user": 70,
+      "document": 10,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 10 | DIRECTORY ID: 747 | TITLE: Library Manual Resolution | TYPE: Others",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T12:43:07.992Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 15,
+    "fields": {
+      "user": 70,
+      "document": 11,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 11 | DIRECTORY ID: 747 | TITLE: Library Manual Resolution | TYPE: Others | ATTACHMENT ID: 8",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-22T12:44:39.438Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 16,
+    "fields": {
+      "user": 70,
+      "document": 10,
+      "action": "DELETE",
+      "details": "ID: 10 | TITLE: Library Manual Resolution | TYPE: Others",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-22T12:49:47.280Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 17,
+    "fields": {
+      "user": 70,
+      "document": 12,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 12 | DIRECTORY ID: 747 | TITLE: Library Manual Revision - updated | TYPE: Others",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-22T12:55:01.309Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 18,
+    "fields": {
+      "user": 70,
+      "document": 13,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 13 | DIRECTORY ID: 747 | TITLE: Library Manual Revision - updated | TYPE: Others",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-22T12:59:49.373Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 19,
+    "fields": {
+      "user": 70,
+      "document": 12,
+      "action": "DELETE",
+      "details": "ID: 12 | TITLE: Library Manual Revision - updated | TYPE: Others",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-23T05:36:30.036Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 20,
+    "fields": {
+      "user": 70,
+      "document": 13,
+      "action": "DELETE",
+      "details": "ID: 13 | TITLE: Library Manual Revision - updated | TYPE: Others",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-23T05:37:32.679Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 21,
+    "fields": {
+      "user": 70,
+      "document": 22,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 22 | DIRECTORY ID: 747 | TITLE: Library Operations Manual | TYPE: Others | ATTACHMENT ID: 15",
+      "ip_address": "119.92.236.172",
+      "country": "Philippines",
+      "city": "Quezon",
+      "latitude": "14.1488",
+      "longitude": "121.4996",
+      "timestamp": "2020-04-23T05:59:20.837Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 22,
+    "fields": {
+      "user": 70,
+      "document": 23,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 23 | DIRECTORY ID: 747 | TITLE: Library Manual Revision - updated | TYPE: Others | ATTACHMENT ID: 16",
+      "ip_address": "119.92.71.23",
+      "country": "Philippines",
+      "city": "Malalag",
+      "latitude": "6.5958",
+      "longitude": "125.3992",
+      "timestamp": "2020-04-23T06:01:03.494Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 23,
+    "fields": {
+      "user": 5,
+      "document": 2,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 2",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-25T09:19:40.873Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 24,
+    "fields": {
+      "user": 5,
+      "document": 2,
+      "action": "DELETE",
+      "details": "ID: 2 | TITLE: sak | TYPE: Others | ATTACHMENT ID: 2",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-25T09:19:47.823Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 25,
+    "fields": {
+      "user": 5,
+      "document": 1,
+      "action": "DELETE",
+      "details": "ID: 1 | TITLE: sak | TYPE: Others | ATTACHMENT ID: 1",
+      "ip_address": "110.54.249.59",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-04-25T09:20:00.698Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 26,
+    "fields": {
+      "user": 5,
+      "document": 24,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 24 | DIRECTORY ID: 648 | TITLE: Sample | TYPE: Manual | ATTACHMENT ID: 17",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-19T10:31:12.481Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 27,
+    "fields": {
+      "user": 38,
+      "document": 25,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 25 | DIRECTORY ID: 6199 | TITLE: SO 366-2020 Ms. Divinagracia G. Lagura as  Admin Staff for the Capacity Development Program | DESCRIPTION: Designation of Ms. Divinagracia G. Lagura as Admin Staff for the Capacity Development Program | TYPE: Others | ATTACHMENT ID: 18 | KEYWORD ID: 1, 2, 3",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T07:24:24.742Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 28,
+    "fields": {
+      "user": 37,
+      "document": 25,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | ATTACHMENT ID: 18 | KEYWORD ID: 4, 5, 6",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-06-30T07:31:23.202Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 29,
+    "fields": {
+      "user": 37,
+      "document": 26,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 26 | DIRECTORY ID: 6203 | TITLE: MC 02, s 2020 - USeP Academic Regulations amidst the COVID-19 Pandemic | TYPE: Others | ATTACHMENT ID: 19 | KEYWORD ID: 7, 8, 9",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T00:52:32.805Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 30,
+    "fields": {
+      "user": 37,
+      "document": 26,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: MC02-2020 USeP Academic Regulations amidst the COVID-19 Pandemic | ATTACHMENT ID: 20 | KEYWORD ID: 10, 11, 12",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T00:53:44.302Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 31,
+    "fields": {
+      "user": 37,
+      "document": 27,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 27 | DIRECTORY ID: 6203 | TITLE: MC03-2020  Administrative Guidelines upon Resumption of Work and Conduct of Classes under the New No | DESCRIPTION: MC03-2020 Memorandum Circular on Administrative Guidelines upon Resumption of Work and Conduct of Classes under the New Normal Condition | TYPE: Others | ATTACHMENT ID: 21 | KEYWORD ID: 13, 14",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T00:57:21.083Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 32,
+    "fields": {
+      "user": 37,
+      "document": 28,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 28 | DIRECTORY ID: 6203 | TITLE: MC01-2020 USeP VoIP Telephone System Usage Guidelines | DESCRIPTION: MC01-2020 USeP VoIP Telephone System Usage Guidelines | TYPE: Others | ATTACHMENT ID: 22 | KEYWORD ID: 15, 16, 17, 18",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T01:04:29.158Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 33,
+    "fields": {
+      "user": 37,
+      "document": 29,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 29 | DIRECTORY ID: 6204 | TITLE: MC02-2019 Harmonized Guidelines on Limited Practice of Profession and Private Enterprise Management | DESCRIPTION: Harmonized Guidelines on Limited Practice of Profession and Private Enterprise Management (HaGLiPPPEM) | TYPE: Others | ATTACHMENT ID: 23 | KEYWORD ID: 19, 20, 21",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T01:18:08.191Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 34,
+    "fields": {
+      "user": 37,
+      "document": 30,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 30 | DIRECTORY ID: 6204 | TITLE: MC01-2019 Guidelines in Processing Travel Authority Requests | DESCRIPTION: MC01-2019 Guidelines in Processing Travel Authority Requests | TYPE: Others | ATTACHMENT ID: 24 | KEYWORD ID: 22, 23, 24",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T01:23:34.831Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 35,
+    "fields": {
+      "user": 37,
+      "document": 31,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 31 | DIRECTORY ID: 6204 | TITLE: MC03-2019 Policy on Banning Single-Use Plastics ATSUP and Its Implementing Guidelines | DESCRIPTION: MC03-2019 Policy on Banning Single-Use Plastics (ATSUP) and Its Implementing Guidelines | TYPE: Others | ATTACHMENT ID: 25 | KEYWORD ID: 25, 26, 27, 28",
+      "ip_address": "49.146.11.103",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-07T01:32:52.832Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 36,
+    "fields": {
+      "user": 6,
+      "document": 32,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 32 | DIRECTORY ID: 1074 | TITLE: USeP Virtual Environment | TYPE: Manual | ATTACHMENT ID: 26",
+      "ip_address": "175.176.95.21",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-21T05:54:29.396Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 37,
+    "fields": {
+      "user": 6,
+      "document": 32,
+      "action": "DELETE",
+      "details": "ID: 32 | TITLE: USeP Virtual Environment | TYPE: Manual | ATTACHMENT ID: 26",
+      "ip_address": "175.176.95.21",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-21T05:56:25.498Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 38,
+    "fields": {
+      "user": 5,
+      "document": 33,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 33 | DIRECTORY ID: 6226 | TITLE: VMGO | DESCRIPTION: Vision Mission and Goals | TYPE: Manual | ATTACHMENT ID: 27 | ATTRIBUTE ID: 1 | KEYWORD ID: 29, 30, 31",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T02:50:34.647Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 39,
+    "fields": {
+      "user": 5,
+      "document": 33,
+      "action": "MOVE",
+      "details": "DOCDIR ID: 33 | SOURCE DOCDIR ID: 33 | TITLE: VMGO | DESCRIPTION: Vision Mission and Goals | TYPE: Manual | ATTACHMENT ID: 27 | ATTRIBUTE ID: 1 | KEYWORD ID: 29, 30, 31",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T02:54:39.567Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 40,
+    "fields": {
+      "user": 5,
+      "document": 33,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 33",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T02:56:10.962Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 41,
+    "fields": {
+      "user": 8,
+      "document": 33,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 33",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T02:59:11.425Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 42,
+    "fields": {
+      "user": 5,
+      "document": 33,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 33",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-22T03:00:03.625Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 43,
+    "fields": {
+      "user": 5,
+      "document": 24,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:43:04.327Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 44,
+    "fields": {
+      "user": 8,
+      "document": 24,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:45:22.127Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 45,
+    "fields": {
+      "user": 5,
+      "document": 24,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:46:12.027Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 46,
+    "fields": {
+      "user": 5,
+      "document": 24,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:46:22.929Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 47,
+    "fields": {
+      "user": 8,
+      "document": 24,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:46:30.684Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 48,
+    "fields": {
+      "user": 5,
+      "document": 24,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T03:46:58.124Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 49,
+    "fields": {
+      "user": 5,
+      "document": 24,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T04:37:38.513Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 50,
+    "fields": {
+      "user": 8,
+      "document": 24,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 24",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T04:37:46.135Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 51,
+    "fields": {
+      "user": 5,
+      "document": 34,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 34 | DIRECTORY ID: 6228 | TITLE: USePs VMGO | DESCRIPTION: Vision Mission and Goals | TYPE: Others | ATTACHMENT ID: 28 | KEYWORD ID: 32, 33, 34",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:27:27.858Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 52,
+    "fields": {
+      "user": 5,
+      "document": 34,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Sample Document | DESCRIPTION: Sample description | TYPE: Manual | ATTACHMENT ID: 29 | ATTRIBUTE ID: 2 | KEYWORD ID: 35, 36",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:30:39.074Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 53,
+    "fields": {
+      "user": 5,
+      "document": 34,
+      "action": "DELETE",
+      "details": "ID: 34 | TITLE: Sample Document | DESCRIPTION: Sample description | TYPE: Manual | ATTACHMENT ID: 29 | ATTRIBUTE ID: 2 | KEYWORD ID: 35, 36",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:31:01.821Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 54,
+    "fields": {
+      "user": 5,
+      "document": 35,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 35 | DIRECTORY ID: 6228 | TITLE: VMGO | TYPE: Manual | ATTACHMENT ID: 30",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:31:34.328Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 55,
+    "fields": {
+      "user": 5,
+      "document": 35,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 35",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:31:52.440Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 56,
+    "fields": {
+      "user": 8,
+      "document": 35,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 35",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:32:22.811Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 57,
+    "fields": {
+      "user": 5,
+      "document": 35,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 35",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:32:33.661Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 58,
+    "fields": {
+      "user": 8,
+      "document": 35,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 35",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:32:42.234Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 59,
+    "fields": {
+      "user": 5,
+      "document": 35,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 35",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:33:28.801Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 60,
+    "fields": {
+      "user": 6,
+      "document": 36,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 36 | DIRECTORY ID: 1074 | TITLE: VMGO | TYPE: Others | ATTACHMENT ID: 31",
+      "ip_address": "175.176.95.55",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T05:33:39.243Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 61,
+    "fields": {
+      "user": 6,
+      "document": 36,
+      "action": "DELETE",
+      "details": "ID: 36 | TITLE: VMGO | TYPE: Others | ATTACHMENT ID: 31",
+      "ip_address": "175.176.95.55",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-07-27T05:34:51.551Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 62,
+    "fields": {
+      "user": 5,
+      "document": 37,
+      "action": "COPY",
+      "details": "DOCDIR ID: 37 | SOURCE DOCDIR ID: New Directory Sample | TITLE: Sample | TYPE: Manual | ATTACHMENT ID: 32",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:39:03.178Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 63,
+    "fields": {
+      "user": 5,
+      "document": 24,
+      "action": "LINK",
+      "details": "DOCDIR ID: 38 | SOURCE DOCDIR ID: 24 | TITLE: Sample | TYPE: Manual | ATTACHMENT ID: 17",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:39:55.360Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 64,
+    "fields": {
+      "user": 5,
+      "document": 35,
+      "action": "MOVE",
+      "details": "DOCDIR ID: 35 | SOURCE DOCDIR ID: 35 | TITLE: VMGO | TYPE: Manual | ATTACHMENT ID: 30",
+      "ip_address": "110.54.225.220",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-07-27T05:40:23.346Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 65,
+    "fields": {
+      "user": 5,
+      "document": 37,
+      "action": "DELETE",
+      "details": "ID: 37 | TITLE: Sample | TYPE: Manual | ATTACHMENT ID: 32",
+      "ip_address": "110.54.247.126",
+      "country": "Philippines",
+      "city": null,
+      "latitude": "14.5955",
+      "longitude": "120.9721",
+      "timestamp": "2020-09-07T13:47:58.982Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 66,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 39 | DIRECTORY ID: 3 | TITLE: Sample | TYPE: Others | ATTACHMENT ID: 33",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T14:43:17.987Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 67,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "LINK",
+      "details": "DOCDIR ID: 40 | SOURCE DOCDIR ID: 39 | TITLE: Sample | TYPE: Others | ATTACHMENT ID: 33",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T14:43:24.826Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 68,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Sample HI | ATTACHMENT ID: 34",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T14:43:38.943Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 69,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "DELETE",
+      "details": "ID: 38 | TITLE: Sample HI | TYPE: Others | ATTACHMENT ID: 34",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T14:44:42.620Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 70,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "LINK",
+      "details": "DOCDIR ID: 41 | SOURCE DOCDIR ID: 39 | TITLE: Sample HI | TYPE: Others | ATTACHMENT ID: 34",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T14:50:44.495Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 71,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "LINK",
+      "details": "DOCDIR ID: 42 | SOURCE DOCDIR ID: 39 | TITLE: Sample HI | TYPE: Others | ATTACHMENT ID: 34",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T14:50:48.826Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 72,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Sample HI lng | ATTACHMENT ID: 35",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T14:51:02.787Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 73,
+    "fields": {
+      "user": 5,
+      "document": 39,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 43 | DIRECTORY ID: 6253 | TITLE: Action Plan 2020 Draft | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Others | ATTACHMENT ID: 36 | ATTRIBUTE ID: 3, 4 | KEYWORD ID: 37, 38",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:06:24.056Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 74,
+    "fields": {
+      "user": 5,
+      "document": 39,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Action Plan 2020 Final | ATTACHMENT ID: 37 | ATTRIBUTE ID: 5, 6, 7 | KEYWORD ID: 39",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:09:57.450Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 75,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "DELETE",
+      "details": "ID: 38 | TITLE: Sample HI lng | TYPE: Others | ATTACHMENT ID: 35",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:11:31.955Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 76,
+    "fields": {
+      "user": 5,
+      "document": 38,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Sample HI | ATTACHMENT ID: 38",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:13:10.482Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 77,
+    "fields": {
+      "user": 5,
+      "document": 39,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 43",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:16:54.625Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 78,
+    "fields": {
+      "user": 8,
+      "document": 39,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 43",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:18:52.243Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 79,
+    "fields": {
+      "user": 5,
+      "document": 39,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 43",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:19:39.262Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 80,
+    "fields": {
+      "user": 5,
+      "document": 39,
+      "action": "PUBLICIZE REQUEST CANCEL",
+      "details": "DOCDIR ID: 43",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:19:52.500Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 81,
+    "fields": {
+      "user": 5,
+      "document": 39,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 43",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:19:56.552Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 82,
+    "fields": {
+      "user": 8,
+      "document": 39,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 43",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:20:15.419Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 83,
+    "fields": {
+      "user": 593,
+      "document": 41,
+      "action": "COPY",
+      "details": "DOCDIR ID: 45 | SOURCE DOCDIR ID: 2021 Action Plan 2020 Final | TITLE: Action Plan 2020 Final | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Others | ATTACHMENT ID: 40 | ATTRIBUTE ID: 11, 12, 13 | KEYWORD ID: 41",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:48:41.789Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 84,
+    "fields": {
+      "user": 593,
+      "document": 40,
+      "action": "LINK",
+      "details": "DOCDIR ID: 46 | SOURCE DOCDIR ID: 44 | TITLE: Action Plan 2020 Final | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Others | ATTACHMENT ID: 39 | ATTRIBUTE ID: 8, 9, 10 | KEYWORD ID: 40",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:49:24.373Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 85,
+    "fields": {
+      "user": 593,
+      "document": 42,
+      "action": "COPY",
+      "details": "DOCDIR ID: 47 | SOURCE DOCDIR ID: 2021 Action Plan 2020 Final | TITLE: Action Plan 2020 Final | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Others | ATTACHMENT ID: 41 | ATTRIBUTE ID: 14, 15, 16 | KEYWORD ID: 42",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:50:02.215Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 86,
+    "fields": {
+      "user": 593,
+      "document": 42,
+      "action": "DELETE",
+      "details": "ID: 42 | TITLE: Action Plan 2020 Final | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Others | ATTACHMENT ID: 41 | ATTRIBUTE ID: 14, 15, 16 | KEYWORD ID: 42",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:50:59.905Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 87,
+    "fields": {
+      "user": 593,
+      "document": 40,
+      "action": "DELETE",
+      "details": "ID: 40 | TITLE: Action Plan 2020 Final | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Others | ATTACHMENT ID: 39 | ATTRIBUTE ID: 8, 9, 10 | KEYWORD ID: 40",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:51:04.322Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 88,
+    "fields": {
+      "user": 593,
+      "document": 38,
+      "action": "MOVE",
+      "details": "DOCDIR ID: 41 | SOURCE DOCDIR ID: 41 | TITLE: Sample HI | TYPE: Others | ATTACHMENT ID: 38",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:52:47.705Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 89,
+    "fields": {
+      "user": 593,
+      "document": 39,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Action Plan 2020 Final Draft | TYPE: Memorandum | IS PUBLIC: True | ATTACHMENT ID: 37 | ATTRIBUTE ID: 17, 18, 19 | KEYWORD ID: 43",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:56:12.477Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 90,
+    "fields": {
+      "user": 593,
+      "document": 40,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Action Plan 2020  | TYPE: Special Order | ATTACHMENT ID: 39 | ATTRIBUTE ID: 20, 21, 22 | KEYWORD ID: 44",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T17:57:23.271Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 91,
+    "fields": {
+      "user": 593,
+      "document": 38,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Sample | TYPE: Letter | ATTACHMENT ID: 38 | KEYWORD ID: 45",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-09T18:00:21.790Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 92,
+    "fields": {
+      "user": 6,
+      "document": 43,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 48 | DIRECTORY ID: 2 | TITLE: 1 | TYPE: Manual | ATTACHMENT ID: 42",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T00:46:50.474Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 93,
+    "fields": {
+      "user": 6,
+      "document": 43,
+      "action": "DELETE",
+      "details": "ID: 43 | TITLE: 1 | TYPE: Manual | ATTACHMENT ID: 42",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T00:47:20.155Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 94,
+    "fields": {
+      "user": 5,
+      "document": 44,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 49 | DIRECTORY ID: 6256 | TITLE: Accomplishment Report September 2020 | DESCRIPTION: This document contains the accomplishments for the month of September. | TYPE: Others | ATTACHMENT ID: 43 | ATTRIBUTE ID: 23, 24, 25 | KEYWORD ID: 46, 47",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:48:54.497Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 95,
+    "fields": {
+      "user": 427,
+      "document": 45,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 50 | DIRECTORY ID: 6255 | TITLE: OBE BS Agricultural Engineering | DESCRIPTION: This documents contains the OBE of AgEng | TYPE: Others | ATTACHMENT ID: 44",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T03:49:51.237Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 96,
+    "fields": {
+      "user": 5,
+      "document": 44,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Accomplishment September 2020 | TYPE: Manual | ATTACHMENT ID: 45 | ATTRIBUTE ID: 26, 27 | KEYWORD ID: 48",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:51:51.603Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 97,
+    "fields": {
+      "user": 5,
+      "document": 46,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 51 | DIRECTORY ID: 6256 | TITLE: Sample | TYPE: Others | ATTACHMENT ID: 46",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:52:43.006Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 98,
+    "fields": {
+      "user": 427,
+      "document": 45,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | ATTACHMENT ID: 44",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T03:53:07.659Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 99,
+    "fields": {
+      "user": 5,
+      "document": 46,
+      "action": "DELETE",
+      "details": "ID: 46 | TITLE: Sample | TYPE: Others | ATTACHMENT ID: 46",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:53:15.899Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 100,
+    "fields": {
+      "user": 5,
+      "document": 44,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 49",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:54:47.440Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 101,
+    "fields": {
+      "user": 8,
+      "document": 44,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 49",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:55:24.863Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 102,
+    "fields": {
+      "user": 5,
+      "document": 44,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 49",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:55:51.620Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 103,
+    "fields": {
+      "user": 5,
+      "document": 44,
+      "action": "PUBLICIZE REQUEST CANCEL",
+      "details": "DOCDIR ID: 49",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:56:10.208Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 104,
+    "fields": {
+      "user": 5,
+      "document": 44,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 49",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:56:16.804Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 105,
+    "fields": {
+      "user": 8,
+      "document": 44,
+      "action": "PUBLICIZE",
+      "details": "DOCDIR ID: 49",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T03:56:33.943Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 106,
+    "fields": {
+      "user": 6,
+      "document": 47,
+      "action": "COPY",
+      "details": "DOCDIR ID: 52 | SOURCE DOCDIR ID: MC 2020 MC02-2020 USeP Academic Regulations amidst the COVID-19 Pandemic | TITLE: MC02-2020 USeP Academic Regulations amidst the COVID-19 Pandemic | TYPE: Others | ATTACHMENT ID: 47 | KEYWORD ID: 49, 50, 51",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T04:57:35.325Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 107,
+    "fields": {
+      "user": 6,
+      "document": 47,
+      "action": "DELETE",
+      "details": "ID: 47 | TITLE: MC02-2020 USeP Academic Regulations amidst the COVID-19 Pandemic | TYPE: Others | ATTACHMENT ID: 47 | KEYWORD ID: 49, 50, 51",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T04:57:49.082Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 108,
+    "fields": {
+      "user": 6,
+      "document": 39,
+      "action": "LINK",
+      "details": "DOCDIR ID: 53 | SOURCE DOCDIR ID: 43 | TITLE: Action Plan 2020 Final Draft | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Memorandum | IS PUBLIC: True | ATTACHMENT ID: 37 | ATTRIBUTE ID: 17, 18, 19 | KEYWORD ID: 43",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:22:42.481Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 109,
+    "fields": {
+      "user": 6,
+      "document": 39,
+      "action": "DELETE",
+      "details": "ID: 39 | TITLE: Action Plan 2020 Final Draft | DESCRIPTION: This document contains the action plan of SDMD for the year 2020. | TYPE: Memorandum | IS PUBLIC: True | ATTACHMENT ID: 37 | ATTRIBUTE ID: 17, 18, 19 | KEYWORD ID: 43",
+      "ip_address": "49.149.220.53",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:23:12.934Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 110,
+    "fields": {
+      "user": 409,
+      "document": 49,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 55 | DIRECTORY ID: 6260 | TITLE: VMGO | DESCRIPTION: This is USeP's VMGO | TYPE: Memorandum | ATTACHMENT ID: 49",
+      "ip_address": "110.54.170.21",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:48:01.686Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 111,
+    "fields": {
+      "user": 594,
+      "document": 50,
+      "action": "COPY",
+      "details": "DOCDIR ID: 56 | SOURCE DOCDIR ID: Human Resource Documents Accomplishment September 2020 | TITLE: Accomplishment September 2020 | DESCRIPTION: This document contains the accomplishments for the month of September. | TYPE: Manual | ATTACHMENT ID: 50 | ATTRIBUTE ID: 30, 31 | KEYWORD ID: 53",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:48:21.187Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 112,
+    "fields": {
+      "user": 409,
+      "document": 49,
+      "action": "DELETE",
+      "details": "ID: 49 | TITLE: VMGO | DESCRIPTION: This is USeP's VMGO | TYPE: Memorandum | ATTACHMENT ID: 49",
+      "ip_address": "110.54.170.21",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T05:49:39.870Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 113,
+    "fields": {
+      "user": 594,
+      "document": 48,
+      "action": "MOVE",
+      "details": "DOCDIR ID: 54 | SOURCE DOCDIR ID: 54 | TITLE: Accomplishment September 2020 | DESCRIPTION: This document contains the accomplishments for the month of September. | TYPE: Manual | ATTACHMENT ID: 48 | ATTRIBUTE ID: 28, 29 | KEYWORD ID: 52",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:50:10.023Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 114,
+    "fields": {
+      "user": 594,
+      "document": 48,
+      "action": "LINK",
+      "details": "DOCDIR ID: 57 | SOURCE DOCDIR ID: 54 | TITLE: Accomplishment September 2020 | DESCRIPTION: This document contains the accomplishments for the month of September. | TYPE: Manual | ATTACHMENT ID: 48 | ATTRIBUTE ID: 28, 29 | KEYWORD ID: 52",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:51:34.619Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 115,
+    "fields": {
+      "user": 594,
+      "document": 51,
+      "action": "COPY",
+      "details": "DOCDIR ID: 58 | SOURCE DOCDIR ID: 2020 Accomplishment September 2020 | TITLE: Accomplishment September 2020 | DESCRIPTION: This document contains the accomplishments for the month of September. | TYPE: Manual | ATTACHMENT ID: 51 | ATTRIBUTE ID: 32, 33 | KEYWORD ID: 54",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:52:55.608Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 116,
+    "fields": {
+      "user": 594,
+      "document": 50,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Accomplishment Report | ATTACHMENT ID: 50 | ATTRIBUTE ID: 34, 35 | KEYWORD ID: 55",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:53:28.872Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 117,
+    "fields": {
+      "user": 594,
+      "document": 50,
+      "action": "LINK",
+      "details": "DOCDIR ID: 59 | SOURCE DOCDIR ID: 56 | TITLE: Accomplishment Report | DESCRIPTION: This document contains the accomplishments for the month of September. | TYPE: Manual | ATTACHMENT ID: 50 | ATTRIBUTE ID: 34, 35 | KEYWORD ID: 55",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:54:36.138Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 118,
+    "fields": {
+      "user": 594,
+      "document": 50,
+      "action": "UPDATE",
+      "details": "UPDATES =>  | TITLE: Accomplishment  | ATTACHMENT ID: 50 | ATTRIBUTE ID: 36, 37 | KEYWORD ID: 56",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T05:55:29.436Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 119,
+    "fields": {
+      "user": 427,
+      "document": 45,
+      "action": "DELETE",
+      "details": "ID: 45 | TITLE: OBE BS Agricultural Engineering | DESCRIPTION: This documents contains the OBE of AgEng | TYPE: Others | ATTACHMENT ID: 44",
+      "ip_address": "120.72.22.10",
+      "country": "Philippines",
+      "city": "Magugpo Poblacion",
+      "latitude": "7.6009",
+      "longitude": "125.9258",
+      "timestamp": "2020-09-10T06:10:12.683Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 120,
+    "fields": {
+      "user": 409,
+      "document": 52,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 60 | DIRECTORY ID: 6263 | TITLE: Administrative Manual | DESCRIPTION: This is the administrative manual of USeP. | TYPE: Manual | ATTACHMENT ID: 52",
+      "ip_address": "110.54.170.21",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:13:32.445Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 121,
+    "fields": {
+      "user": 409,
+      "document": 52,
+      "action": "DELETE",
+      "details": "ID: 52 | TITLE: Administrative Manual | DESCRIPTION: This is the administrative manual of USeP. | TYPE: Manual | ATTACHMENT ID: 52",
+      "ip_address": "110.54.170.21",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:14:21.643Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 122,
+    "fields": {
+      "user": 6,
+      "document": 53,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 61 | DIRECTORY ID: 1284 | TITLE: CIC VMGO | TYPE: Minutes | ATTACHMENT ID: 53",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:46:49.127Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 123,
+    "fields": {
+      "user": 6,
+      "document": 54,
+      "action": "COPY",
+      "details": "DOCDIR ID: 62 | SOURCE DOCDIR ID: 2020 Accomplishment  | TITLE: Accomplishment  | DESCRIPTION: This document contains the accomplishments for the month of September. | TYPE: Manual | ATTACHMENT ID: 54 | ATTRIBUTE ID: 38, 39 | KEYWORD ID: 57",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-10T06:51:02.324Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 124,
+    "fields": {
+      "user": 205,
+      "document": 55,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 63 | DIRECTORY ID: 6303 | TITLE: AACCUP Instruments | DESCRIPTION: AACCUP Instruments Teacher Education | TYPE: Others | ATTACHMENT ID: 55",
+      "ip_address": "49.145.195.171",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T06:52:54.332Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 125,
+    "fields": {
+      "user": 205,
+      "document": 55,
+      "action": "PUBLICIZE REQUEST",
+      "details": "DOCDIR ID: 63",
+      "ip_address": "49.145.195.171",
+      "country": "Philippines",
+      "city": "Cagayan de Oro",
+      "latitude": "8.4851",
+      "longitude": "124.648",
+      "timestamp": "2020-09-10T07:03:59.318Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 126,
+    "fields": {
+      "user": 449,
+      "document": 56,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 64 | DIRECTORY ID: 6328 | TITLE: PPP | DESCRIPTION: Program Performance Profile | TYPE: Others | ATTACHMENT ID: 56",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T02:06:24.563Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 127,
+    "fields": {
+      "user": 449,
+      "document": 57,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 65 | DIRECTORY ID: 6329 | TITLE: PhD Compliance Report | DESCRIPTION: Compliance Report of the Previous AACUP's recommendations. | TYPE: Others | ATTACHMENT ID: 57",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T02:10:11.035Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 128,
+    "fields": {
+      "user": 5,
+      "document": 58,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 66 | DIRECTORY ID: 3 | TITLE: liasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilas | DESCRIPTION: liasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilas | TYPE: Memorandum | ATTACHMENT ID: 58",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T06:26:13.019Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 129,
+    "fields": {
+      "user": 5,
+      "document": 58,
+      "action": "DELETE",
+      "details": "ID: 58 | TITLE: liasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilas | DESCRIPTION: liasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilasvuy3otbeqpliasutfilas | TYPE: Memorandum | ATTACHMENT ID: 58",
+      "ip_address": "202.137.122.27",
+      "country": "Philippines",
+      "city": "Davao City",
+      "latitude": "7.0758",
+      "longitude": "125.6139",
+      "timestamp": "2020-09-11T06:28:10.672Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 130,
+    "fields": {
+      "user": 5,
+      "document": 44,
+      "action": "UNPUBLICIZE",
+      "details": "DOCDIR ID: 49",
+      "ip_address": "110.54.186.252",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-11T13:41:15.340Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 131,
+    "fields": {
+      "user": 224,
+      "document": 59,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 67 | DIRECTORY ID: 6294 | TITLE: sample | DESCRIPTION: sample | TYPE: Others | ATTACHMENT ID: 59",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-16T08:12:59.834Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 132,
+    "fields": {
+      "user": 224,
+      "document": 59,
+      "action": "DELETE",
+      "details": "ID: 59 | TITLE: sample | DESCRIPTION: sample | TYPE: Others | ATTACHMENT ID: 59",
+      "ip_address": "49.149.76.9",
+      "country": "Philippines",
+      "city": "Iligan City",
+      "latitude": "8.25",
+      "longitude": "124.4",
+      "timestamp": "2020-09-16T08:23:35.600Z"
+    }
+  },
+  {
+    "model": "document.log",
+    "pk": 133,
+    "fields": {
+      "user": 5,
+      "document": 60,
+      "action": "CREATE",
+      "details": "DOCDIR ID: 68 | DIRECTORY ID: 3 | TITLE: sample | TYPE: Manual | ATTACHMENT ID: 60",
+      "ip_address": "110.54.184.1",
+      "country": "Philippines",
+      "city": "Cebu City",
+      "latitude": "10.3101",
+      "longitude": "123.8929",
+      "timestamp": "2020-09-18T06:09:11.489Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 3,
+    "fields": {
+      "directory": 746,
+      "document": 3,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-21T08:12:38.493Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 4,
+    "fields": {
+      "directory": 746,
+      "document": 4,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-22T01:57:24.326Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 5,
+    "fields": {
+      "directory": 747,
+      "document": 5,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-22T05:44:01.984Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 6,
+    "fields": {
+      "directory": 747,
+      "document": 6,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-22T06:43:51.485Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 7,
+    "fields": {
+      "directory": 747,
+      "document": 7,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-22T08:09:16.245Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 11,
+    "fields": {
+      "directory": 747,
+      "document": 11,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-22T12:44:39.327Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 14,
+    "fields": {
+      "directory": 5642,
+      "document": 14,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": 3,
+      "created_at": "2020-04-23T03:23:06.658Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 15,
+    "fields": {
+      "directory": 5642,
+      "document": 15,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": 4,
+      "created_at": "2020-04-23T03:23:06.859Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 16,
+    "fields": {
+      "directory": 5643,
+      "document": 16,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": 5,
+      "created_at": "2020-04-23T03:23:07.041Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 17,
+    "fields": {
+      "directory": 5643,
+      "document": 17,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": 6,
+      "created_at": "2020-04-23T03:23:07.213Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 18,
+    "fields": {
+      "directory": 5643,
+      "document": 18,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": 7,
+      "created_at": "2020-04-23T03:23:07.330Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 19,
+    "fields": {
+      "directory": 5643,
+      "document": 19,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": 11,
+      "created_at": "2020-04-23T03:23:07.480Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 20,
+    "fields": {
+      "directory": 5643,
+      "document": 20,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-23T03:23:07.574Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 21,
+    "fields": {
+      "directory": 5643,
+      "document": 21,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-23T03:23:07.650Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 22,
+    "fields": {
+      "directory": 747,
+      "document": 22,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-23T05:59:20.799Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 23,
+    "fields": {
+      "directory": 747,
+      "document": 23,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-04-23T06:01:03.459Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 25,
+    "fields": {
+      "directory": 6199,
+      "document": 25,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-06-30T07:24:24.727Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 26,
+    "fields": {
+      "directory": 6203,
+      "document": 26,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-07-07T00:52:32.792Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 27,
+    "fields": {
+      "directory": 6203,
+      "document": 27,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-07-07T00:57:21.075Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 28,
+    "fields": {
+      "directory": 6203,
+      "document": 28,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-07-07T01:04:29.148Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 29,
+    "fields": {
+      "directory": 6204,
+      "document": 29,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-07-07T01:18:08.184Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 30,
+    "fields": {
+      "directory": 6204,
+      "document": 30,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-07-07T01:23:34.823Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 31,
+    "fields": {
+      "directory": 6204,
+      "document": 31,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-07-07T01:32:52.824Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 61,
+    "fields": {
+      "directory": 1284,
+      "document": 53,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-09-10T06:46:49.114Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 62,
+    "fields": {
+      "directory": 1284,
+      "document": 54,
+      "is_public": false,
+      "is_copy": true,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-09-10T06:51:02.314Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 63,
+    "fields": {
+      "directory": 6303,
+      "document": 55,
+      "is_public": null,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-09-10T06:52:54.325Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 64,
+    "fields": {
+      "directory": 6328,
+      "document": 56,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-09-11T02:06:24.554Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 65,
+    "fields": {
+      "directory": 6329,
+      "document": 57,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-09-11T02:10:11.025Z"
+    }
+  },
+  {
+    "model": "document.documentdirectory",
+    "pk": 68,
+    "fields": {
+      "directory": 3,
+      "document": 60,
+      "is_public": false,
+      "is_copy": false,
+      "is_link": false,
+      "link": null,
+      "created_at": "2020-09-18T06:09:11.489Z"
+    }
+  }
+]

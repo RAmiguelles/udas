@@ -1,0 +1,12 @@
+requests
+django==3.1.7
+django-cors-headers
+djangorestframework
+django-admin-reset
+django-environ
+django-debug-toolbar
+gunicorn
+mysqlclient
+pymysql
+geoip2
+wfastcgi

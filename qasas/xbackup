@@ -1,0 +1,10 @@
+mkdir db
+mkdir db/dump
+python manage.py dumpdata auth.user --indent 3 > db/dump/users.json
+python manage.py dumpdata directory --indent 3 > db/dump/directory.json
+python manage.py dumpdata document --indent 3 > db/dump/document.json
+python manage.py dumpdata department --indent 3 > db/dump/department.json
+python manage.py dumpdata authentication --indent 3 > db/dump/authentication.json
+python manage.py dumpdata permission --indent 3 > db/dump/permission.json
+python manage.py dumpdata sharing --indent 3 > db/dump/sharing.json
+python manage.py dumpdata app_admin --indent 3 > db/dump/app_admin.json

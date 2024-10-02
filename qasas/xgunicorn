@@ -1,0 +1,1 @@
+gunicorn qasas.wsgi --reload --timeout 300 --workers 13 --bind 172.16.210.78

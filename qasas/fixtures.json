@@ -1,0 +1,9 @@
+[
+  {
+    "model": "directory.directory",
+    "pk": 1,
+    "fields": {
+      "name": "Support Office"
+    }
+  }
+]

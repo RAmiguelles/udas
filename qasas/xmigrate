@@ -1,0 +1,2 @@
+python manage.py makemigrations trash document
+python manage.py migrate
